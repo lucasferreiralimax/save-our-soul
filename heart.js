@@ -496,22 +496,22 @@ a:hover {
 }
 `;
 
-let container = elem('div', null, [{type: 'class', value: 'container-max'}], document.body, 'prepend')
-
 function header() {
   let title = 'Redes globais de apoio emocional e <span class=\'alert\'>prevenção</span> ao suicídio'
   let text = 'Se você precisar de ajuda entre em contato com uma destas redes ou se precisar ajudar um amigo e estiver preocupado com alguém.'
 
   let header = elem('header', null, [{type: 'class', value: 'header'}])
+  let container = elem('div', null, [{type: 'class', value: 'container-max'}], header, 'prepend')
 
-  elem('h1', title, null, header)
-  elem('p', text, null, header)
+  elem('h1', title, null, container)
+  elem('p', text, null, container)
 
-  container.prepend(header)
+  document.body.insertBefore(header, document.querySelector('.footer'))
 }
 
 function list() {
-  let main = document.createElement('main')  
+  let main = document.createElement('main')
+  let container = elem('div', null, [{type: 'class', value: 'container-max'}], main, 'prepend')
 
   main.classList.add('main')
 
@@ -544,10 +544,10 @@ function list() {
       }
     }
     
-    main.appendChild(article)
+    container.appendChild(article)
   }
 
-  container.appendChild(main)
+  document.body.insertBefore(main, document.querySelector('.footer'))
 }
 
 function iconSocial(type) {

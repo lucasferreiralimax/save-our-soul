@@ -279,10 +279,14 @@ a:hover {
 }
 
 .header h1 { margin-top: 0; }
+.header p {
+  font-size: 1.5em;
+  font-family: 'Courgette', cursive;
+}
 
 .contact {
   background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0), rgba(255,255,255,1));
-  box-shadow: 0 0 10px rgba(0,0,0,.2);
+  box-shadow:0 0 0 2px #fff, 0 0 10px rgba(0,0,0,.2);
   padding: 10px 10px 20px;
   margin: 20px auto;
   border-radius: 10px;
@@ -340,7 +344,7 @@ let container = elem('div', null, [{type: 'class', value: 'container-max'}], doc
 
 function header() {
   let title = 'Redes globais de apoio emocional e <span class=\'alert\'>prevenção</span> ao suicídio'
-  let text = 'Se você precisar de ajuda entre em contato com uma destas redes ou se precisar ajudar um amigo estiver preocupado com alguém.'
+  let text = 'Se você precisar de ajuda entre em contato com uma destas redes ou se precisar ajudar um amigo e estiver preocupado com alguém.'
 
   let header = elem('header', null, [{type: 'class', value: 'header'}])
 
@@ -409,6 +413,16 @@ function elem(type, content, attribute, insert, appendType) {
   if(insert) { appendType ? insert.prepend(el) : insert.appendChild(el) }
 
   return el
+}
+
+let keep_again = true;
+
+function keepCalm() {
+  if(keep_again) {
+    alert("Tenha calma, tudo bem? Precisamos de você vivo! \nConverse com algum contato conforme sua urgência \nHoje pode está difícil mas amanhã, amanhã é um novo dia.")
+    keep_again = false
+    setTimeout(function(){ keep_again = true }, 5000);
+  }
 }
 
 header()

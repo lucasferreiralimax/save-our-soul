@@ -449,10 +449,6 @@ a:hover {
   cursor: pointer;
 }
 
-.contact.active {
-  max-height: none;
-}
-
 .contact.active { cursor: default; }
 
 .contact h1 { margin: 0; }
@@ -599,6 +595,11 @@ function expandContact() {
     contact.addEventListener('click', (event) => {
       cleanContacts()
       contact.classList.add('active')
+      contact.style.maxHeight = `${contact.scrollHeight}px`
+      setTimeout(() => {
+        const y = contact.getBoundingClientRect().top + window.pageYOffset - 10;
+        window.scrollTo({top: y, behavior: 'smooth'});
+      }, 500);      
     })
   } 
 }
@@ -606,6 +607,7 @@ function expandContact() {
 function cleanContacts() {
   for(let contact of document.querySelectorAll('.contact')) {
     contact.classList.remove('active')
+    contact.removeAttribute('style')
   }
 }
 

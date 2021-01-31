@@ -229,6 +229,150 @@ let contacts = [
             url: 'https://www.facebook.com/csspraha'
           }
         ]
+      },
+      {
+        name: 'Linka důvěry Ostrava',
+        url: 'https://www.mnof.cz',
+        phone: ['596 618 908', '596 191 111', '737 267 939'],
+        email: 'mnof@mnof.cz',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://www.facebook.com/nemocnicefifejdy'
+          },
+          {
+            type: 'instagram',
+            url: 'https://www.instagram.com/porodnicefifejdy'
+          },
+          {
+            type: 'youtube',
+            url: 'https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA'
+          }
+        ]
+      },
+      {
+        name: 'Linka duševní tísně Most',
+        url: 'http://www.mostknadeji.eu',
+        phone: '476 701 444',
+        email: 'reditel@mostknadeji.cz',
+        skype: 'ldt.most'
+      },
+      {
+        name: 'Linka důvěry DKC',
+        url: 'https://www.ditekrize.cz',
+        phone: ['241 484 149', '777 715 215', '778 510 510'],
+        email: 'problem@ditekrize.cz',
+        skype: 'ld_dkc',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://www.facebook.com/DKCcz'
+          },
+          {
+            type: 'instagram',
+            url: 'https://www.instagram.com/detske_krizove_centrum'
+          },
+          {
+            type: 'linkedin',
+            url: 'https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Dinamarca',
+    info: [
+      {
+        name: 'Livslinien',
+        url: 'https://www.livslinien.dk',
+        phone: '70 201 201',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://www.facebook.com/Livslinien'
+          },          
+          {
+            type: 'instagram',
+            url: 'https://www.instagram.com/livslinien'
+          },
+          {
+            type: 'linkedin',
+            url: 'https://www.linkedin.com/company/livslinien'
+          },
+        ]
+      },
+      {
+        name: 'Børne',
+        url: 'https://bornetelefonen.dk',
+        phone: ' 116 111 (a linha destinada a crianças atende diariamente das 11h às 23h)'
+      }
+    ]
+  },
+  {
+    title: 'Finlândia',
+    info: [
+      {
+        name: 'Suomen Mielenterveysseura',
+        url: 'https://mieli.fi',
+        phone: ['01019 5202', '09 2525 0111'],
+        email: 'sos-keskus@mieli.fi',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://www.facebook.com/mielenterveys'
+          },          
+          {
+            type: 'twitter',
+            url: 'https://twitter.com/mielenterveys'
+          },
+          {
+            type: 'instagram',
+            url: 'https://www.instagram.com/mielenterveys'
+          },
+          {
+            type: 'youtube',
+            url: 'https://www.youtube.com/user/Mielenterveysseura'
+          },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'França',
+    info: [
+      {
+        name: 'S.O.S Amitié',
+        url: 'https://www.sos-amitie.org',
+        phone: ['01 42 96 26 26', '09 72 39 40 50', '01 46 21 46 46', '01 40 09 15 22'],
+        email: 'administration@sos-amitie.com',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116'
+          },
+          {
+            type: 'youtube',
+            url: 'http://www.youtube.com/user/sosamitie'
+          },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Alemanha',
+    info: [
+      {
+        name: 'Telefonseelsorge',
+        url: 'https://www.telefonseelsorge.de',
+        phone: ['0800 111 0 111', '0800 111 0 222'],
+        email: 'online.telefonseelsorge.de'
+      },
+      {
+        name: 'Nummer gegen Kummer',
+        url: 'https://www.nummergegenkummer.de',
+        phone: ['0800 111 0 550 (linha destinada a adultos)', '0800 111 0 333 (linha destinada a crianças)'],
+        email: 'info@nummergegenkummer.de'
       }
     ]
   },
@@ -295,21 +439,18 @@ a:hover {
 
 .contact h1 { margin: 0; }
 
+.contact h4 {
+  padding-top: 20px;  
+  border-top: 1px solid rgba(0,0,0,.1);
+  box-shadow: 0 -1px 0 rgba(255,255,255,.5);
+}
+
 .list-social {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center;
-  padding-bottom: 20px;
-  border-bottom: 1px solid rgba(0,0,0,.1);
-  box-shadow: 0 1px 0 rgba(255,255,255,.5);
-}
-
-.list-social:last-of-type {
-  padding-bottom: 0;
-  border-bottom: 0;
-  box-shadow: none;
+  justify-content: center;  
 }
 
 .list-social li { margin-right: 10px; }
@@ -368,8 +509,17 @@ function list() {
     for(let item of list) {
       if(item.name)  elem('h4', item.name, null, article)
       if(item.url)   elem('a', item.url, [{type: 'href', value: item.url}, {type: 'target', value: '_blank'}], article)
-      if(item.phone) elem('p', `Telefone: ${item.phone}`, null, article)
-      if(item.email) elem('p', `Email: ${item.email}`, null, article)
+      if(item.phone) {
+        if(typeof item.phone == 'string') {
+          elem('p', `<b>Telefone:</b> ${item.phone}`, null, article)
+        } else {
+          for(let phone of item.phone) {
+            elem('p', `<b>Telefone:</b> ${phone}`, null, article)
+          }
+        }
+      }
+      if(item.skype) elem('p', `<b>Skype:</b> ${item.skype}`, null, article)
+      if(item.email) elem('p', `<b>Email:</b> ${item.email}`, null, article)      
 
       if(item.networking) {
         let list_social = elem('ul', null, [{type: 'class', value: 'list-social'}], article)

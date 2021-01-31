@@ -261,8 +261,8 @@ let heartStyles = `
 }
 
 body {
-  font-family: Arial;
   background: url('assets/diamond.png') repeat #ffffad fixed;
+  font-family: Arial;
   margin: 0;
   padding: 20px;
   text-align: center;
@@ -274,38 +274,38 @@ h1 {
 }
 
 a {
-  text-decoration: none;
-  font-weight: bold;
   color: #c53d7c;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
   filter: invert(1);
+  text-decoration: underline;
 }
 
 .container-max {
-  max-width: 600px;
   margin: 0 auto;
+  max-width: 600px;
 }
 
 .header h1 { margin-top: 0; }
 .header p {
-  font-size: 1.5em;
   font-family: 'Courgette', cursive;
+  font-size: 1.5em;
 }
 
 .contact {
   background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0), rgba(255,255,255,1));
-  box-shadow:0 0 0 2px #fff, 0 0 10px rgba(0,0,0,.2);
-  padding: 10px 10px 20px;
-  margin: 20px auto;
   border-radius: 10px;
-  max-width: 350px;
-  max-height: 60px;
-  overflow: hidden;
-  transition: .5s all;
+  box-shadow:0 0 0 2px #fff, 0 0 10px rgba(0,0,0,.2);
   cursor: pointer;
+  margin: 20px auto;
+  max-height: 60px;
+  max-width: 350px;
+  overflow: hidden;
+  padding: 10px 10px 20px;
+  transition: .5s all;
 }
 
 .contact.active { cursor: default; }
@@ -313,27 +313,27 @@ a:hover {
 .contact h1 { margin: 0; }
 
 .contact h4 {
-  font-size: 20px;
-  padding-top: 20px;  
   border-top: 1px solid rgba(0,0,0,.1);
   box-shadow: 0 -1px 0 rgba(255,255,255,.5);
+  font-size: 20px;
+  padding-top: 20px;  
 }
 
 .list-social {
+  display: flex;
+  justify-content: center;  
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  justify-content: center;  
 }
 
 .list-social li { margin-right: 10px; }
 .list-social li:last-of-type { margin-right: 0; }
 
 .icon-social {
+  display: flex;
   font-size: 0;
   transition: .5s all;
-  display: flex;
 }
 
 .icon-social svg {
@@ -343,15 +343,15 @@ a:hover {
 }
 
 .icon-social:hover {
-  transform: scale(1.2);
   background: #000;
   border-radius: 100px;
   box-shadow: 0 0 0 3px #000;
+  transform: scale(1.2);
 }
 
 .footer {
-  text-align: center;
   padding: 2em;
+  text-align: center;
 }
 `;
 

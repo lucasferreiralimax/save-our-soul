@@ -443,7 +443,17 @@ a:hover {
   margin: 20px auto;
   border-radius: 10px;
   max-width: 350px;
+  max-height: 60px;
+  overflow: hidden;
+  transition: .5s all;
+  cursor: pointer;
 }
+
+.contact.active {
+  max-height: none;
+}
+
+.contact.active { cursor: default; }
 
 .contact h1 { margin: 0; }
 
@@ -584,7 +594,23 @@ function keepCalm() {
   }
 }
 
+function expandContact() {
+  for(let contact of document.querySelectorAll('.contact')) {
+    contact.addEventListener('click', (event) => {
+      cleanContacts()
+      contact.classList.add('active')
+    })
+  } 
+}
+
+function cleanContacts() {
+  for(let contact of document.querySelectorAll('.contact')) {
+    contact.classList.remove('active')
+  }
+}
+
 header()
 list()
+expandContact()
 
 elem('style', heartStyles, [{type: 'type', value: 'text/css'}], document.head)

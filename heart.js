@@ -2,12 +2,7 @@ let global_icon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480.1 48
 let contacts = [
   {
     title: `Global ${global_icon}`,
-    info: [
-      {
-        name: 'Befrienders',
-        url: 'http://www.befrienders.org',
-      }
-    ]
+    info: [ { name: 'Befrienders', url: 'http://www.befrienders.org', } ]
   },
   {
     title: 'Austrália',
@@ -17,26 +12,11 @@ let contacts = [
         url: 'http://www.lifeline.org.au',
         phone: '13 11 14',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/LifelineAustralia'
-          },
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/LifelineAust'
-          },
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/lifelineaustralia'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw'
-          },
-          {
-            type: 'linkedin',
-            url: 'https://www.linkedin.com/company/lifeline-australia'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/LifelineAustralia' },
+          { type: 'twitter',   url: 'https://twitter.com/LifelineAust' },
+          { type: 'instagram', url: 'https://www.instagram.com/lifelineaustralia' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/lifeline-australia' }
         ]
       },
       {
@@ -44,22 +24,10 @@ let contacts = [
         url: 'http://www.kidshelp.com.au',
         phone: '1800 55 1800',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/kidshelpline'
-          },
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/kidshelplineau'
-          },
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/kidshelplineau'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/user/kidshelpline101'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/kidshelpline' },
+          { type: 'twitter',   url: 'https://twitter.com/kidshelplineau' },
+          { type: 'instagram', url: 'https://www.instagram.com/kidshelplineau' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/kidshelpline101' }
         ]
       },
       {
@@ -67,22 +35,10 @@ let contacts = [
         url: 'http://www.eheadspace.org.au',
         phone: '1800 650 890',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/headspaceAustralia'
-          },
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/headspace_aus'
-          },
-          {
-            type: 'instagram',
-            url: 'https://instagram.com/headspace_aus'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/user/headspaceAustralia'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/headspaceAustralia' },
+          { type: 'twitter',   url: 'https://twitter.com/headspace_aus' },
+          { type: 'instagram', url: 'https://instagram.com/headspace_aus' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/headspaceAustralia' }
         ]
       }
     ]
@@ -96,18 +52,9 @@ let contacts = [
         phone: '147',
         email: '147@rataufdraht.at',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/147rataufdraht'
-          },          
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/147rataufdraht'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/user/Helpline147'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/147rataufdraht' },          
+          { type: 'instagram', url: 'https://www.instagram.com/147rataufdraht' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/Helpline147' }
         ]
       }
     ]
@@ -121,14 +68,8 @@ let contacts = [
         phone: '1813',
         email: 'mail@zelfmoordlijn.be',
         networking: [
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/Zelfmoord1813'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/user/Zelfmoord1813'
-          }
+          { type: 'twitter', url: 'https://twitter.com/Zelfmoord1813' },
+          { type: 'youtube', url: 'https://www.youtube.com/user/Zelfmoord1813' }
         ]
       }
     ]
@@ -142,26 +83,11 @@ let contacts = [
         phone: '188',
         email: 'atendimento@cvv.org.br',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/cvvoficial'
-          },
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/CVVoficial'
-          },
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/cvvoficial'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/user/CVVdivulgacao'
-          },
-          {
-            type: 'linkedin',
-            url: 'https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/cvvoficial' },
+          { type: 'twitter',   url: 'https://twitter.com/CVVoficial' },
+          { type: 'instagram', url: 'https://www.instagram.com/cvvoficial' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/CVVdivulgacao' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida' }
         ]
       }
     ]
@@ -179,18 +105,9 @@ let contacts = [
         phone: '(613)702-4446',
         email: 'casp@suicideprevention.ca',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/CanadianAssociationforSuicidePrevention'
-          },
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/casp_ca'
-          },
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/canadianassociationsuicideprev'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/CanadianAssociationforSuicidePrevention' },
+          { type: 'twitter',   url: 'https://twitter.com/casp_ca' },
+          { type: 'instagram', url: 'https://www.instagram.com/canadianassociationsuicideprev' }
         ]
       }
     ]
@@ -204,18 +121,9 @@ let contacts = [
         phone: '116 111',
         email: 'pomoc@linkabezpeci.cz',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://cs-cz.facebook.com/Linkabezpeci'
-          },
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/Linka_bezpeci'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/user/SdruzeniLinkaBezpeci'
-          }
+          { type: 'facebook', url: 'https://cs-cz.facebook.com/Linkabezpeci' },
+          { type: 'twitter',  url: 'https://twitter.com/Linka_bezpeci' },
+          { type: 'youtube',  url: 'https://www.youtube.com/user/SdruzeniLinkaBezpeci' }
         ]
       },
       {
@@ -224,10 +132,7 @@ let contacts = [
         phone: '222 580 697',
         email: 'casp@suicideprevention.ca',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/csspraha'
-          }
+          { type: 'facebook', url: 'https://www.facebook.com/csspraha' }
         ]
       },
       {
@@ -236,18 +141,9 @@ let contacts = [
         phone: ['596 618 908', '596 191 111', '737 267 939'],
         email: 'mnof@mnof.cz',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/nemocnicefifejdy'
-          },
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/porodnicefifejdy'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/nemocnicefifejdy' },
+          { type: 'instagram', url: 'https://www.instagram.com/porodnicefifejdy' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA' }
         ]
       },
       {
@@ -264,18 +160,9 @@ let contacts = [
         email: 'problem@ditekrize.cz',
         skype: 'ld_dkc',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/DKCcz'
-          },
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/detske_krizove_centrum'
-          },
-          {
-            type: 'linkedin',
-            url: 'https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb'
-          }
+          { type: 'facebook',  url: 'https://www.facebook.com/DKCcz' },
+          { type: 'instagram', url: 'https://www.instagram.com/detske_krizove_centrum' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb' }
         ]
       }
     ]
@@ -288,18 +175,9 @@ let contacts = [
         url: 'https://www.livslinien.dk',
         phone: '70 201 201',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/Livslinien'
-          },          
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/livslinien'
-          },
-          {
-            type: 'linkedin',
-            url: 'https://www.linkedin.com/company/livslinien'
-          },
+          { type: 'facebook',  url: 'https://www.facebook.com/Livslinien' },          
+          { type: 'instagram', url: 'https://www.instagram.com/livslinien' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/livslinien' },
         ]
       },
       {
@@ -318,22 +196,10 @@ let contacts = [
         phone: ['01019 5202', '09 2525 0111'],
         email: 'sos-keskus@mieli.fi',
         networking: [
-          {
-            type: 'facebook',
-            url: 'https://www.facebook.com/mielenterveys'
-          },          
-          {
-            type: 'twitter',
-            url: 'https://twitter.com/mielenterveys'
-          },
-          {
-            type: 'instagram',
-            url: 'https://www.instagram.com/mielenterveys'
-          },
-          {
-            type: 'youtube',
-            url: 'https://www.youtube.com/user/Mielenterveysseura'
-          },
+          { type: 'facebook',  url: 'https://www.facebook.com/mielenterveys' },          
+          { type: 'twitter',   url: 'https://twitter.com/mielenterveys' },
+          { type: 'instagram', url: 'https://www.instagram.com/mielenterveys' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/Mielenterveysseura' },
         ]
       }
     ]
@@ -347,14 +213,8 @@ let contacts = [
         phone: ['01 42 96 26 26', '09 72 39 40 50', '01 46 21 46 46', '01 40 09 15 22'],
         email: 'administration@sos-amitie.com',
         networking: [
-          {
-            type: 'facebook',
-            url: 'http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116'
-          },
-          {
-            type: 'youtube',
-            url: 'http://www.youtube.com/user/sosamitie'
-          },
+          { type: 'facebook', url: 'http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116' },
+          { type: 'youtube',  url: 'http://www.youtube.com/user/sosamitie' },
         ]
       }
     ]
@@ -379,7 +239,6 @@ let contacts = [
 ]
 
 let heartStyles = `
-
 ::-webkit-scrollbar-track { background: #ededb5; }
 ::-webkit-scrollbar { width: 10px; }
 ::-webkit-scrollbar-thumb {

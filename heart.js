@@ -192,7 +192,7 @@ a:hover {
 .contact {
   background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0), rgba(255,255,255,1));
   box-shadow: 0 0 10px rgba(0,0,0,.2);
-  padding: 10px;
+  padding: 10px 10px 20px;
   margin: 20px auto;
   border-radius: 10px;
   max-width: 350px;
@@ -206,6 +206,15 @@ a:hover {
   padding: 0;
   display: flex;
   justify-content: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  box-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
+
+.list-social:last-of-type {
+  padding-bottom: 0;
+  border-bottom: 0;
+  box-shadow: none;
 }
 
 .list-social li { margin-right: 10px; }

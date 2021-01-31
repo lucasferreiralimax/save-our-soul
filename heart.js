@@ -1,4 +1,3 @@
-let body = document.body
 let contacts = [
   {
     title: 'Global',
@@ -143,6 +142,96 @@ let contacts = [
   },
 ]
 
+let heartStyles = `
+body {
+  font-family: Arial;
+  background: url('assets/diamond.png') repeat #ffffad;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3em;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #c53d7c;
+}
+
+a:hover {
+  text-decoration: underline;
+  filter: invert(1);
+}
+
+.container-max {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.header h1 {
+  margin-top: 0;
+}
+
+.contact {
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0), rgba(255,255,255,1));
+  box-shadow: 0 0 10px rgba(0,0,0,.2);
+  padding: 10px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 350px;
+}
+
+.contact h1 {
+  margin: 0;
+}
+
+.list-social {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.list-social li {
+  margin-right: 10px;
+}
+
+.list-social li:last-of-type {
+  margin-right: 0;
+}
+
+.icon-social {
+  font-size: 0;
+  transition: .5s all;
+  display: flex;
+}
+
+.icon-social svg {
+  fill: #c53d7c;
+  filter: invert(1);
+  transition: .5s all;
+}
+
+.icon-social:hover {
+  transform: scale(1.2);
+  background: #000;
+  border-radius: 100px;
+  box-shadow: 0 0 0 3px #000;
+}
+
+.footer {
+  text-align: center;
+  padding: 2em;
+}
+`;
+
+let container = elem('div', null, [{type: 'class', value: 'container-max'}], document.body, 'prepend')
+
 function header() {
   let title = 'Redes globais de apoio emocional e prevenção ao suicídio'
   let text = 'Se você precisar de ajuda entre em contato com uma destas redes ou se precisar ajudar um amigo estiver preocupado com alguém.'
@@ -152,7 +241,7 @@ function header() {
   elem('h1', title, null, header)
   elem('p', text, null, header)
 
-  body.prepend(header)
+  container.prepend(header)
 }
 
 function list() {
@@ -173,8 +262,9 @@ function list() {
       if(item.email) elem('p', `Email: ${item.email}`, null, article)
 
       if(item.networking) {
+        let list_social = elem('ul', null, [{type: 'class', value: 'list-social'}], article)
         for(let social of item.networking) {
-          elem('p', `<a class="icon-social" href='${social.url}' target='_blank'>${iconSocial(social.type)} ${social.url}</a>`, null, article)
+          elem('li', `<a class="icon-social" href='${social.url}' target='_blank'>${iconSocial(social.type)} ${social.url}</a>`, null, list_social)
         }
       }
     }
@@ -182,13 +272,13 @@ function list() {
     main.appendChild(article)
   }
 
-  body.insertBefore(main, document.querySelector('footer'))
+  container.appendChild(main)
 }
 
 function iconSocial(type) {
   switch(type) {
     case 'facebook':
-      return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.657 167.657" width="30px" height="30px"><path d="M83.829.349C37.532.349 0 37.881 0 84.178c0 41.523 30.222 75.911 69.848 82.57v-65.081H49.626v-23.42h20.222V60.978c0-20.037 12.238-30.956 30.115-30.956 8.562 0 15.92.638 18.056.919v20.944l-12.399.006c-9.72 0-11.594 4.618-11.594 11.397v14.947h23.193l-3.025 23.42H94.026v65.653c41.476-5.048 73.631-40.312 73.631-83.154 0-46.273-37.532-83.805-83.828-83.805z" fill="#010002"/></svg>`
+      return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.657 167.657" width="30px" height="30px"><path d="M83.829.349C37.532.349 0 37.881 0 84.178c0 41.523 30.222 75.911 69.848 82.57v-65.081H49.626v-23.42h20.222V60.978c0-20.037 12.238-30.956 30.115-30.956 8.562 0 15.92.638 18.056.919v20.944l-12.399.006c-9.72 0-11.594 4.618-11.594 11.397v14.947h23.193l-3.025 23.42H94.026v65.653c41.476-5.048 73.631-40.312 73.631-83.154 0-46.273-37.532-83.805-83.828-83.805z"/></svg>`
       break;
     case 'twitter':
       return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="30px" height="30px"><path d="M256 0C114.637 0 0 114.637 0 256s114.637 256 256 256 256-114.637 256-256S397.363 0 256 0zm116.887 199.602c.113 2.52.168 5.05.168 7.593 0 77.645-59.102 167.18-167.184 167.184h.004-.004c-33.184 0-64.062-9.727-90.066-26.395 4.597.543 9.277.813 14.015.813 27.532 0 52.868-9.39 72.98-25.152-25.722-.477-47.41-17.465-54.894-40.813a58.481 58.481 0 0011.043 1.063c5.363 0 10.559-.723 15.496-2.07-26.886-5.384-47.14-29.145-47.14-57.598 0-.266 0-.504.007-.75a58.354 58.354 0 0026.614 7.347c-15.778-10.527-26.149-28.523-26.149-48.91a58.597 58.597 0 017.957-29.535c28.977 35.555 72.282 58.937 121.118 61.394a58.708 58.708 0 01-1.528-13.398c0-32.437 26.317-58.754 58.766-58.754 16.902 0 32.168 7.145 42.89 18.567a117.855 117.855 0 0037.313-14.262c-4.395 13.715-13.707 25.222-25.84 32.5 11.887-1.422 23.215-4.574 33.742-9.254a119.412 119.412 0 01-29.308 30.43zm0 0"/></svg>`
@@ -205,16 +295,17 @@ function iconSocial(type) {
   }
 }
 
-function elem(type, content, attribute, insert) {
+function elem(type, content, attribute, insert, appendType) {
   let el = document.createElement(type)
 
   if(content) el.innerHTML = content
   if(attribute) for(let attr of attribute) { el.setAttribute(attr.type, attr.value) }
-
-  if(insert) insert.appendChild(el)
+  if(insert) { appendType ? insert.prepend(el) : insert.appendChild(el) }
 
   return el
 }
 
 header()
 list()
+
+elem('style', heartStyles, [{type: 'type', value: 'text/css'}], document.head)

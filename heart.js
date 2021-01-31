@@ -88,6 +88,31 @@ let contacts = [
     ]
   },
   {
+    title: 'Áustria',
+    info: [
+      {
+        name: 'Rat auf Draht',
+        url: 'http://rataufdraht.orf.at',
+        phone: '147',
+        email: '147@rataufdraht.at',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://www.facebook.com/147rataufdraht'
+          },          
+          {
+            type: 'instagram',
+            url: 'https://www.instagram.com/147rataufdraht'
+          },
+          {
+            type: 'youtube',
+            url: 'https://www.youtube.com/user/Helpline147'
+          }
+        ]
+      }
+    ]
+  },
+  {
     title: 'Bélgica',
     info: [
       {
@@ -136,6 +161,72 @@ let contacts = [
           {
             type: 'linkedin',
             url: 'https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Canadá',
+    info: [
+      {
+        name: 'Kids Help Phone (destinada a menores de 20 anos)',
+        phone: '1 800 6686868'
+      },
+      {
+        name: 'Para maiores de 20 anos, procure uma central de situação de emergência que atenda sua área:',
+        url: 'http://suicideprevention.ca',
+        phone: '(613)702-4446',
+        email: 'casp@suicideprevention.ca',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://www.facebook.com/CanadianAssociationforSuicidePrevention'
+          },
+          {
+            type: 'twitter',
+            url: 'https://twitter.com/casp_ca'
+          },
+          {
+            type: 'instagram',
+            url: 'https://www.instagram.com/canadianassociationsuicideprev'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'República Tcheca',
+    info: [
+      {
+        name: 'Linka bezpečí',
+        url: 'http://www.linkabezpeci.cz',
+        phone: '116 111',
+        email: 'pomoc@linkabezpeci.cz',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://cs-cz.facebook.com/Linkabezpeci'
+          },
+          {
+            type: 'twitter',
+            url: 'https://twitter.com/Linka_bezpeci'
+          },
+          {
+            type: 'youtube',
+            url: 'https://www.youtube.com/user/SdruzeniLinkaBezpeci'
+          }
+        ]
+      },
+      {
+        name: 'Pražská linka důvěry',
+        url: 'https://www.csspraha.cz',
+        phone: '222 580 697',
+        email: 'casp@suicideprevention.ca',
+        networking: [
+          {
+            type: 'facebook',
+            url: 'https://www.facebook.com/csspraha'
           }
         ]
       }

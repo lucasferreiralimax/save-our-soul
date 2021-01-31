@@ -236,6 +236,149 @@ let contacts = [
       }
     ]
   },
+  {
+    title: 'Grécia',
+    info: [
+      {
+        name: 'ONG Klimaka',
+        url: 'http://www.klimaka.org.gr',
+        phone: '210-3417160-2',
+        email: 'central@klimaka.org.gr',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/klimakango' },
+          { type: 'twitter',   url: 'https://twitter.com/klimaka_ngo' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/klimakaMKO' },
+        ]
+      },
+      {
+        name: 'Suicide Help Greece',
+        url: 'http://www.suicide-help.gr',
+        phone: '1018'
+      }
+    ]
+  },
+  {
+    title: 'Hong Kong',
+    info: [
+      {
+        name: 'Suicide self-treatment mutual Hong Kong',
+        url: 'http://www.help4suicide.com.hk',
+        phone: '210-3417160-2',
+        email: 'soulbox@sbhk.org.hk',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/HELP4SUICIDE' }
+        ]
+      },
+      {
+        name: 'The Samaritan Befrienders Hong Kong',
+        url: 'http://www.sbhk.org.hk',
+        phone: ['2389 2222', '2389 2223'],
+        email: 'admin@sbhk.org.hk',
+        networking: [
+          { type: 'facebook',  url: 'http://www.facebook.com/sbhk.org' },
+          { type: 'youtube',  url: 'http://www.youtube.com/user/helpforsuicide' }
+        ]
+      },
+      {
+        name: 'The Samaritans Hong Kong',
+        url: 'https://samaritans.org.hk',
+        phone: '2896 0000',
+        email: 'jo@samaritans.org.hk',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/SamaritansHongKong/' },
+          { type: 'twitter',  url: 'https://twitter.com/samaritans_hk' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Hungria',
+    info: [
+      {
+        name: 'Magyar Lelki Elsősegély Telefonszolgálatok Szövetsége',
+        url: 'https://sos116-123.hu',
+        phone: ['116 123', '30 670 1709'],
+        skype: 'lelkigondozas1',
+        email: 'sos116123@gmail.com',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/Magyar-Lelki-Els%C5%91seg%C3%A9ly-Telefonszolg%C3%A1latok-Sz%C3%B6vets%C3%A9ge-LESZ-148380928544430' }
+        ]
+      },
+      {
+        name: 'Kek Vonal',
+        phone: '116-111'
+      }
+    ]
+  },
+  {
+    title: 'Índia',
+    info: [
+      {
+        name: 'AASRA',
+        url: 'https://sos116-123.hu',
+        phone: ['91-9820466726', '91-22-27546669', '91-22-27546667'],
+        skype: 'lelkigondozas1',
+        email: 'aasrahelpline@yahoo.com',
+        networking: [
+          { type: 'facebook',  url: 'http://www.facebook.com/aasrasuicideprevention' },
+          { type: 'twitter',  url: 'http://www.twitter.com/aasradotinfo' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Israel',
+    info: [
+      {
+        name: 'ERAN',
+        url: 'http://www.eran.org.il',
+        phone: ['1201 (ligação gratuita em Israel)', '972-76-8844400 (fora de Israel)', '076-8844400'],
+        email: 'eran1201@eran.org.il',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/eran.org.il' },
+          { type: 'instagram',  url: 'https://www.instagram.com/eran_1201' },
+          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCDDx1k4i3siQaejE1VB82ig' }
+        ]
+      },
+      {
+        name: 'SAHAR (rede de apoio emocional em hebreu)',
+        url: 'http://www.sahar.org.il',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/saharhelponline' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Itália',
+    info: [
+      {
+        name: 'Telefono Azzurro',
+        url: 'http://www.eran.org.il',
+        phone: '19696',
+        email: 'serviziosostenitori@azzurro.it',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/TelefonoAzzurroOnlus' },
+          { type: 'instagram',  url: 'https://www.instagram.com/telefono_azzurro' },
+          { type: 'twitter',  url: 'https://twitter.com/telefonoazzurro' },
+          { type: 'youtube',  url: 'https://www.instagram.com/telefono_azzurro' },
+          { type: 'linkedin',  url: 'https://it.linkedin.com/company/s.o.s.---telefono-azzurro' }
+        ]
+      },
+      {
+        name: 'Telefono Amico',
+        url: 'http://www.sahar.org.il',
+        phone: ['199 284 284', '02 2327 2327'],
+        email: 'info@telefonoamico.it',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/telefonoamicoitalia' },
+          { type: 'instagram',  url: 'https://www.instagram.com/telefonoamicoit' },
+          { type: 'twitter',  url: 'https://twitter.com/telefonoamicoit' },
+          { type: 'youtube',  url: 'https://www.youtube.com/channel/UC_wioI1TK69kSKRQePpXCcw' }
+        ]
+      }
+    ]
+  },
 ]
 
 let heartStyles = `

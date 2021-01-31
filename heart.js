@@ -380,6 +380,14 @@ let contacts = [
 
 let heartStyles = `
 
+::-webkit-scrollbar-track { background: #ededb5; }
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0,0,0, .5);
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0,0,0,0);
+}
+
 ::selection {
   background: #c53d7c;
   color: #fff;
@@ -395,7 +403,7 @@ let heartStyles = `
 
 body {
   font-family: Arial;
-  background: url('assets/diamond.png') repeat #ffffad;
+  background: url('assets/diamond.png') repeat #ffffad fixed;
   margin: 0;
   padding: 20px;
   text-align: center;
@@ -440,6 +448,7 @@ a:hover {
 .contact h1 { margin: 0; }
 
 .contact h4 {
+  font-size: 20px;
   padding-top: 20px;  
   border-top: 1px solid rgba(0,0,0,.1);
   box-shadow: 0 -1px 0 rgba(255,255,255,.5);

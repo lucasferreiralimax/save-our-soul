@@ -475,13 +475,31 @@ var contacts = [
           { type: 'twitter',  url: 'https://twitter.com/elconsejomx' },
           { type: 'instagram',  url: 'https://www.instagram.com/consejociudadanomx' },
           { type: 'whatsapp',  url: 'https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda' },
-          { type: 'youtube',  url: 'https://www.youtube.com/user/consejociudadano/videos' },
+          { type: 'youtube',  url: 'https://www.youtube.com/user/consejociudadano' },
         ]
       },
       {
         name: 'Instituto Hispanoamericano de Suicidologia, A.C',
         phone: '+5255 46313300',
         email: 'info@suicidiologia.com.mx'
+      }
+    ]
+  },
+  {
+    title: 'Holanda',
+    info: [
+      {
+        name: 'Foundation 113Online',
+        url: 'https://www.113.nl',
+        phone: ['0800-0113','0900-113 0 113'],
+        email: 'info@113.nl',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/113Zelfmoordpreventie' },
+          { type: 'twitter',  url: 'https://twitter.com/113preventie' },
+          { type: 'instagram',  url: 'https://www.instagram.com/113zelfmoordpreventie' },
+          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/113zelfmoordpreventie' },
+        ]
       }
     ]
   },

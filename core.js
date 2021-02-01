@@ -8,6 +8,8 @@ function keepCalm() {
   }
 }
 
+document.addEventListener('mouseleave', keepCalm)
+
 function elem(type, content, attribute, insert, appendType) {
   let el = document.createElement(type)
 

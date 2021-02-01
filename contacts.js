@@ -379,4 +379,110 @@ var contacts = [
       }
     ]
   },
+  {
+    title: 'Letônia',
+    info: [
+      {
+        name: 'Skalbes',
+        url: 'http://www.skalbes.lv',
+        phone: ['371 67222922', '371 27722292', '24 551 700'],
+        skype: 'skalbes',
+        email: 'skalbes@skalbes.lv',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/skalbes' },
+          { type: 'twitter',  url: 'https://twitter.com/skalbes' },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Lituânia',
+    info: [
+      {
+        name: 'Lithuanian Association of Emotional Support Lines',
+        url: 'http://www.klausau.lt',
+        phone: '1809'
+      },
+      {
+        name: 'Vaikų linija (linha destinada a crianças)',
+        url: 'https://www.vaikulinija.lt',
+        phone: '116 111',
+        networking: [
+          { type: 'facebook', url: 'http://www.facebook.com/vaikulinija' }
+        ]
+      },
+      {
+        name: 'Jaunimo linija (linha destinada a jovens)',
+        url: 'https://www.jaunimolinija.lt',
+        phone: '8 800 28888'
+      },
+      {
+        name: 'Vilties linija (linha da esperança)',
+        url: 'https://kpsc.lt',
+        phone: ['116 123', '8 (46) 41 00 27'],
+        email: 'info@kpsc.lt'
+      },
+      {
+        name: 'Pagalbos moterims linija (linha destinada a mulheres)',
+        url: 'https://www.moteriai.lt',
+        phone: '8 800 66366',
+        email: 'pagalba@moteriai.lt',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/nedelsk' },
+          { type: 'instagram', url: 'https://www.instagram.com/ksppc.nedelsk' }
+        ]
+      },
+      {
+        name: 'Linija Doverija (linha destinada a falantes de russo)',
+        phone: '8 800 77277'
+      }
+    ]
+  },
+  {
+    title: 'Luxemburgo',
+    info: [
+      {
+        name: 'SOS Détresse – Hëllef iwwer Telefon',
+        url: 'https://454545.lu',
+        phone: '454545',
+        email: 'info@sosdetresse.lu',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/454545.lu' }
+        ]
+      },
+      {
+        name: 'Kanner-Jugendtelefon',
+        url: 'http://www.kjt.lu',
+        phone: '116 111',
+        networking: [
+          { type: 'facebook',  url: 'https://de-de.facebook.com/kannerjugendtelefon' },
+          { type: 'twitter',  url: 'https://twitter.com/kajutel' },
+          { type: 'youtube',  url: 'https://www.youtube.com/channel/UC7LEzAoxc7pHXX5NmSLVgsQ' },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'México',
+    info: [
+      {
+        name: 'Consejo Ciudadano',
+        url: 'https://consejociudadanomx.org',
+        phone: '55 5533-5533',
+        email: 'contacto@consejociudadanomx.org',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/ConsejoCiudadanoMx' },
+          { type: 'twitter',  url: 'https://twitter.com/elconsejomx' },
+          { type: 'instagram',  url: 'https://www.instagram.com/consejociudadanomx' },
+          { type: 'whatsapp',  url: 'https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda' },
+          { type: 'youtube',  url: 'https://www.youtube.com/user/consejociudadano/videos' },
+        ]
+      },
+      {
+        name: 'Instituto Hispanoamericano de Suicidologia, A.C',
+        phone: '+5255 46313300',
+        email: 'info@suicidiologia.com.mx'
+      }
+    ]
+  },
 ];

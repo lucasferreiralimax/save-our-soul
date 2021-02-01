@@ -35,7 +35,7 @@ function list() {
           }
         }
       }
-      if(item.skype) elem('p', `<b>Skype:</b> ${item.skype}`, null, article)
+      if(item.skype) elem('p', `<b>Skype:</b> <a href='skype:${item.skype}?call' target='_blank'>${item.skype}</a>`, null, article)
       if(item.email) elem('p', `<b>Email:</b> ${item.email}`, null, article)      
 
       if(item.networking) {

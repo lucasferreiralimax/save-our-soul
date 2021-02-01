@@ -24,8 +24,8 @@ function list() {
     let list = contact.info
 
     for(let item of list) {
-      if(item.name)  elem('h4', item.name, null, article)
-      if(item.url)   elem('a', item.url, [{type: 'href', value: item.url}, {type: 'target', value: '_blank'}, {type: 'data-tooltip', value: 'site'}], article)
+      if(item.name)  elem('h2', item.name, null, article)
+      if(item.url)   elem('a', item.url, [{type: 'href', value: item.url}, {type: 'target', value: '_blank'}, {type: 'data-tooltip', value: 'site'}, {type: 'rel', value: 'noopener'}], article)
       if(item.phone) {
         if(typeof item.phone == 'string') {
           elem('p', `<b>Telefone:</b> ${item.phone}`, null, article)
@@ -35,13 +35,13 @@ function list() {
           }
         }
       }
-      if(item.skype) elem('p', `<b>Skype:</b> <a href='skype:${item.skype}?call' target='_blank'>${item.skype}</a>`, null, article)
+      if(item.skype) elem('p', `<b>Skype:</b> <a href='skype:${item.skype}?call' target='_blank' rel='noopener'>${item.skype}</a>`, null, article)
       if(item.email) elem('p', `<b>Email:</b> ${item.email}`, null, article)      
 
       if(item.networking) {
         let list_social = elem('ul', null, [{type: 'class', value: 'list-social'}], article)
         for(let social of item.networking) {
-          elem('li', `<a class="icon-social" href='${social.url}' target='_blank' data-tooltip='${social.type}'>${iconSocial(social.type)} ${social.url}</a>`, null, list_social)
+          elem('li', `<a class="icon-social" href='${social.url}' target='_blank' data-tooltip='${social.type}' rel='noopener'>${iconSocial(social.type)} ${social.url}</a>`, null, list_social)
         }
       }
     }

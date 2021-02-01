@@ -101,7 +101,7 @@ a:hover {
   box-shadow:0 0 0 2px #fff, 0 0 10px rgba(0,0,0,.2);
   cursor: pointer;
   margin: 20px auto;
-  max-height: 60px;
+  max-height: 55px;
   max-width: 350px;
   overflow: hidden;
   padding: 10px 10px 20px;
@@ -112,7 +112,7 @@ a:hover {
 
 .contact h1 { margin: 0; }
 
-.contact h4 {
+.contact h2 {
   border-top: 1px solid rgba(0,0,0,.1);
   box-shadow: 0 -1px 0 rgba(255,255,255,.5);
   font-size: 20px;

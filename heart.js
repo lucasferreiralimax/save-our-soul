@@ -1,5 +1,5 @@
 function header() {
-  let title = 'Redes globais de apoio emocional e <span class=\'alert\'>prevenção</span> ao suicídio'
+  let title = 'Redes globais de apoio emocional e <span class=\'alert\' data-tooltip=\'você não está sozinho\'>prevenção</span> ao suicídio'
   let text = 'Se você precisar de ajuda entre em contato com uma destas redes ou se precisar ajudar um amigo e estiver preocupado com alguém.'
 
   let header = elem('header', null, [{type: 'class', value: 'header'}])
@@ -25,7 +25,7 @@ function list() {
 
     for(let item of list) {
       if(item.name)  elem('h4', item.name, null, article)
-      if(item.url)   elem('a', item.url, [{type: 'href', value: item.url}, {type: 'target', value: '_blank'}], article)
+      if(item.url)   elem('a', item.url, [{type: 'href', value: item.url}, {type: 'target', value: '_blank'}, {type: 'data-tooltip', value: 'site'}], article)
       if(item.phone) {
         if(typeof item.phone == 'string') {
           elem('p', `<b>Telefone:</b> ${item.phone}`, null, article)
@@ -41,7 +41,7 @@ function list() {
       if(item.networking) {
         let list_social = elem('ul', null, [{type: 'class', value: 'list-social'}], article)
         for(let social of item.networking) {
-          elem('li', `<a class="icon-social" href='${social.url}' target='_blank'>${iconSocial(social.type)} ${social.url}</a>`, null, list_social)
+          elem('li', `<a class="icon-social" href='${social.url}' target='_blank' data-tooltip='${social.type}'>${iconSocial(social.type)} ${social.url}</a>`, null, list_social)
         }
       }
     }

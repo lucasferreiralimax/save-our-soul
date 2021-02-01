@@ -55,6 +55,7 @@ let heartStyles = `
   filter: invert(1);
   font-family: 'Courgette', cursive;
   padding: 0 10px;
+  cursor: help;
 }
 
 body {
@@ -131,6 +132,7 @@ a:hover {
   display: flex;
   font-size: 0;
   transition: .5s all;
+  position: relative;
 }
 
 .icon-social svg {
@@ -144,6 +146,30 @@ a:hover {
   border-radius: 100px;
   box-shadow: 0 0 0 3px #000;
   transform: scale(1.2);
+}
+
+[data-tooltip]:after {
+  content: attr(data-tooltip);
+  background: #fff;
+  color: #000;
+  border: 1px solid #000;
+  display: flex;
+  padding: 3px 6px;
+  border-radius: 3px;
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  font-size: 13px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(-50%);
+  transition: .1s all;
+}
+
+[data-tooltip]:hover:after {
+  opacity: 1;
+  pointer-events: all;
+  filter: invert(1);
 }
 
 .footer {

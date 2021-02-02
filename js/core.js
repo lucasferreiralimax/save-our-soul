@@ -64,6 +64,9 @@ let heartStyles = `
   cursor: help;
 }
 
+.alert[data-tooltip]:before { top: 0; }
+.alert[data-tooltip]:after { width: 100%; }
+
 body {
   background: url('assets/diamond.png') repeat #ffffad fixed;
   font-family: Arial;
@@ -154,24 +157,43 @@ a:hover {
   transform: scale(1.2);
 }
 
+[data-tooltip] {
+  position: relative;
+  display: inline-block;
+}
+
+[data-tooltip]:before,
+[data-tooltip]:after {
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(-50%);
+  transition: .1s all;
+  z-index: 9;
+}
 [data-tooltip]:after {
   content: attr(data-tooltip);
   background: #fff;
   color: #000;
   border: 1px solid #000;
-  display: flex;
   padding: 3px 6px;
   border-radius: 3px;
-  position: absolute;
   top: -25px;
-  left: 50%;
   font-size: 13px;
-  opacity: 0;
-  pointer-events: none;
-  transform: translateX(-50%);
-  transition: .1s all;
 }
 
+[data-tooltip]:before {
+  content: '';
+  width: 1px;
+  height: 1px;
+  border: 5px solid transparent;
+  border-top: 5px solid #000;
+  top: -2px;
+}
+
+[data-tooltip]:hover:before,
 [data-tooltip]:hover:after {
   opacity: 1;
   pointer-events: all;

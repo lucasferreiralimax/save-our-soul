@@ -25,7 +25,7 @@ function contactItem(contact) {
         info += `* Telefone: ${cellphone}\n`
       }
     }
-    if(item.skype) info += `* Skype: ${item.skype}\n`
+    if(item.skype) info += `* Skype: <a href='skype:${item.skype}?call'>${item.skype}</a>\n`
     if(item.email) info += `* E-mail: ${item.email}\n`
     if(item.networking) {
       for(let social of item.networking) {

@@ -12,29 +12,30 @@ Do you are not alone, keep calm, call or send a message.
 `;
 
 function contactItem(contact) {
-    let contactContext = `___\n## ${contact.title}`
+  let removeSVG = /(<svg)([^<]*|[^>]*)(.*<\/svg>)/
+  let contactContext = `___\n## ${contact.title.replace(removeSVG, "")}`
 
-    for(let item of contact.info) {
-        let info = `\n##### ${item.name} \n`
-        if(item.url) info += `* Site: ${item.url}\n`
-        if(item.phone && typeof item.phone == 'string') {
-            info += `* Telefone: ${item.phone}\n`
-        } else if(item.phone) {
-            for(let cellphone of item.phone) {
-                info += `* Telefone: ${cellphone}\n`
-            }
-        }
-        if(item.skype) info += `* Skype: ${item.skype}\n`
-        if(item.email) info += `* E-mail: ${item.email}\n`
-        if(item.networking) {
-            for(let social of item.networking) {
-                info += `* [${social.type.charAt(0).toUpperCase() + social.type.slice(1).toLowerCase()}](${social.url})\n`
-            }
-        }        
-        contactContext += info
+  for(let item of contact.info) {
+    let info = `\n##### ${item.name} \n`
+    if(item.url) info += `* Site: ${item.url}\n`
+    if(item.phone && typeof item.phone == 'string') {
+      info += `* Telefone: ${item.phone}\n`
+    } else if(item.phone) {
+      for(let cellphone of item.phone) {
+        info += `* Telefone: ${cellphone}\n`
+      }
     }
+    if(item.skype) info += `* Skype: ${item.skype}\n`
+    if(item.email) info += `* E-mail: ${item.email}\n`
+    if(item.networking) {
+      for(let social of item.networking) {
+        info += `* [${social.type.charAt(0).toUpperCase() + social.type.slice(1).toLowerCase()}](${social.url})\n`
+      }
+    }        
+    contactContext += info
+  }
 
-    readme += contactContext
+  readme += contactContext
 }
 
 for(let contact of contacts) { contactItem(contact) }

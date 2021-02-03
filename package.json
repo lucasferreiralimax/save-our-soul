@@ -1,0 +1,15 @@
+{
+  "name": "save-our-soul",
+  "version": "1.0.0",
+  "description": "Project with contacts S.O.S generating markdown file docs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucasferreiralimax",
+  "repository": "https://github.com/lucasferreiralimax/save-our-souls",
+  "bugs": {
+    "url": "https://github.com/lucasferreiralimax/save-our-souls/issues"
+  }
+}

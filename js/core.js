@@ -1,9 +1,24 @@
 let keep_again = true;
+const messages = [
+  'Tenha calma, tudo bem? Precisamos de você vivo! \nConverse com algum contato conforme sua urgência \nHoje pode está difícil mas amanhã, amanhã é um novo dia.',
+  'Não se precipite, podemos resolver qualquer problema trabalhando com a paciência. \nSe precisar entre em contato com quem achar melhor.',
+  'Posso não te conhecer ainda, mas se você precisar de ajuda ficarei grato em te ajudar @lucasferreiralimax',
+  'Você não esta sozinho, tenha calma, conforme sua urgência busque compartilhar oque precisa para esse contatos.',
+  'Compartilhando informação podemos melhorar o Mundo de cada pessoa, se estiver passando por alguma dificuldade entre em contato.',
+]
+
+function getRandomIntInclusive(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
 
 function keepCalm() {
-  if(keep_again) {
-    alert("Tenha calma, tudo bem? Precisamos de você vivo! \nConverse com algum contato conforme sua urgência \nHoje pode está difícil mas amanhã, amanhã é um novo dia.")
+  if(keep_again) {    
+    let lucky = getRandomIntInclusive(0,4)
     keep_again = false
+
+    alert(messages[lucky])
     setTimeout(function(){ keep_again = true }, 5000);
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "save-our-soul",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project with contacts S.O.S generating markdown file docs",
   "main": "index.js",
   "scripts": {

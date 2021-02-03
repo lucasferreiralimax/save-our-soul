@@ -503,4 +503,55 @@ var contacts = [
       }
     ]
   },
+  {
+    title: 'Nova Zelândia',
+    info: [
+      {
+        name: 'National Depression Initiative',
+        url: 'http://www.depression.org.nz',
+        phone: '0800 111 757',
+        sms: '4202',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/SmallStepsNZ' }
+        ]
+      },
+      {
+        name: 'The Lowdown',
+        url: 'http://www.thelowdown.co.nz',
+        phone: '0800 111 757',
+        sms: '5626',
+        email: 'team@thelowdown.co.nz',
+        networking: [
+          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCLp9zlalIVfqJ8FPbS8k8Ww' }
+        ]
+      },
+      {
+        name: 'Youthline',
+        url: 'https://www.youthline.co.nz',
+        phone: '0800 376 633',
+        sms: '234',
+        email: 'talk@youthline.co.nz',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/Youthline.Changing.Lives' },
+          { type: 'twitter',  url: 'https://twitter.com/youthline' },
+          { type: 'instagram',  url: 'https://www.instagram.com/youthlinenz' },
+          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Noruega',
+    info: [
+      {
+        name: 'Kirkens SOS',
+        url: 'https://www.kirkens-sos.no',
+        phone: ['815 33 300', '+47 23 08 13 80', '+47 22 40 00 40'],
+        email: 'post@kirkens-sos.no',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/kirkensSOSNorge' }
+        ]
+      }
+    ]
+  },
 ];

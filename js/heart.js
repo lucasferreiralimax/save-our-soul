@@ -35,6 +35,7 @@ function list() {
           }
         }
       }
+      if(item.sms) elem('p', `<b>SMS:</b> ${item.sms}`, null, article)
       if(item.skype) elem('p', `<b>Skype:</b> <a href='skype:${item.skype}?call' target='_blank' rel='noopener'>${item.skype}</a>`, null, article)
       if(item.email) elem('p', `<b>Email:</b> ${item.email}`, null, article)      
 

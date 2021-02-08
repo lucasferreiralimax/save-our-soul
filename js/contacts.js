@@ -554,6 +554,68 @@ var contacts = [
       }
     ]
   },
+  {
+    title: 'Polônia',
+    info: [
+      {
+        name: 'Fundacja Dzieci Niczyje',
+        url: 'https://116111.pl',
+        phone: '116 111',
+        networking: [
+          { type: 'instagram',  url: 'http://instagram.com/116111.pl' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Sérvia',
+    info: [
+      {
+        name: 'Centar Srce',
+        url: 'https://www.centarsrce.org',
+        phone: '0800 300 303',
+        email: 'vanja@centarsrce.org',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/CentarSrce' },
+          { type: 'twitter',  url: 'https://twitter.com/CentarSrce' },
+          { type: 'youtube',  url: 'https://www.youtube.com/user/centarsrce' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Singapura',
+    info: [
+      {
+        name: 'Samaritans of Singapore (SOS)',
+        url: 'https://www.sos.org.sg',
+        phone: '1800 221 4444',
+        email: 'pat@sos.org.sg',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/SamaritansOfSingapore' },
+          { type: 'instagram',  url: 'https://www.instagram.com/samaritansofsingapore' },
+          { type: 'twitter',  url: 'https://twitter.com/samaritansofsg' },
+          { type: 'linkedin',  url: 'https://sg.linkedin.com/company/sos-samaritans-of-singapore' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'África do Sul',
+    info: [
+      {
+        name: 'The South African Depression and Anxiety Group (SADAG)',
+        url: 'https://www.sadag.org',
+        phone: ['0800 21 22 23 ', '0800 456 789', '0800 567 567', '011 234 4837'],
+        sms: '31393',
+        email: 'info@anxiety.org.za',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/TheSADAG' },
+          { type: 'twitter',  url: 'http://twitter.com/TheSADAG' }
+        ]
+      }
+    ]
+  },
 ];
 
 module.exports = contacts

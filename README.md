@@ -370,6 +370,42 @@ ___
 * Telefone: +47 22 40 00 40
 * E-mail: post@kirkens-sos.no
 * [Facebook](https://www.facebook.com/kirkensSOSNorge)
+___
+## Polônia
+##### Fundacja Dzieci Niczyje 
+* Site: https://116111.pl
+* Telefone: 116 111
+* [Instagram](http://instagram.com/116111.pl)
+___
+## Sérvia
+##### Centar Srce 
+* Site: https://www.centarsrce.org
+* Telefone: 0800 300 303
+* E-mail: vanja@centarsrce.org
+* [Facebook](https://www.facebook.com/CentarSrce)
+* [Twitter](https://twitter.com/CentarSrce)
+* [Youtube](https://www.youtube.com/user/centarsrce)
+___
+## Singapura
+##### Samaritans of Singapore (SOS) 
+* Site: https://www.sos.org.sg
+* Telefone: 1800 221 4444
+* E-mail: pat@sos.org.sg
+* [Facebook](https://www.facebook.com/SamaritansOfSingapore)
+* [Instagram](https://www.instagram.com/samaritansofsingapore)
+* [Twitter](https://twitter.com/samaritansofsg)
+* [Linkedin](https://sg.linkedin.com/company/sos-samaritans-of-singapore)
+___
+## África do Sul
+##### The South African Depression and Anxiety Group (SADAG) 
+* Site: https://www.sadag.org
+* Telefone: 0800 21 22 23 
+* Telefone: 0800 456 789
+* Telefone: 0800 567 567
+* Telefone: 011 234 4837
+* E-mail: info@anxiety.org.za
+* [Facebook](https://www.facebook.com/TheSADAG)
+* [Twitter](http://twitter.com/TheSADAG)
 
 ___
 > Se tiver problemas [abra uma nova issue aqui](https://github.com/lucasferreiralimax/save-our-soul/issues/new)

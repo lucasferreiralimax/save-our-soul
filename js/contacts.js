@@ -5,6 +5,39 @@ var contacts = [
     info: [ { name: 'Befrienders', url: 'http://www.befrienders.org', } ]
   },
   {
+    title: 'África do Sul',
+    info: [
+      {
+        name: 'The South African Depression and Anxiety Group (SADAG)',
+        url: 'https://www.sadag.org',
+        phone: ['0800 21 22 23 ', '0800 456 789', '0800 567 567', '011 234 4837'],
+        sms: '31393',
+        email: 'info@anxiety.org.za',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/TheSADAG' },
+          { type: 'twitter',  url: 'http://twitter.com/TheSADAG' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Alemanha',
+    info: [
+      {
+        name: 'Telefonseelsorge',
+        url: 'https://www.telefonseelsorge.de',
+        phone: ['0800 111 0 111', '0800 111 0 222'],
+        email: 'online.telefonseelsorge.de'
+      },
+      {
+        name: 'Nummer gegen Kummer',
+        url: 'https://www.nummergegenkummer.de',
+        phone: ['0800 111 0 550 (linha destinada a adultos)', '0800 111 0 333 (linha destinada a crianças)'],
+        email: 'info@nummergegenkummer.de'
+      }
+    ]
+  },
+  {
     title: 'Austrália',
     info: [
       {
@@ -42,7 +75,7 @@ var contacts = [
         ]
       }
     ]
-  },
+  },  
   {
     title: 'Áustria',
     info: [
@@ -58,22 +91,7 @@ var contacts = [
         ]
       }
     ]
-  },
-  {
-    title: 'Bélgica',
-    info: [
-      {
-        name: 'Centrum Ter Preventie Van Zelfdoding',
-        url: 'http://www.zelfmoord1813.be',
-        phone: '1813',
-        email: 'mail@zelfmoordlijn.be',
-        networking: [
-          { type: 'twitter', url: 'https://twitter.com/Zelfmoord1813' },
-          { type: 'youtube', url: 'https://www.youtube.com/user/Zelfmoord1813' }
-        ]
-      }
-    ]
-  },
+  },  
   {
     title: 'Brasil e Portugal',
     info: [
@@ -93,6 +111,21 @@ var contacts = [
     ]
   },
   {
+    title: 'Bélgica',
+    info: [
+      {
+        name: 'Centrum Ter Preventie Van Zelfdoding',
+        url: 'http://www.zelfmoord1813.be',
+        phone: '1813',
+        email: 'mail@zelfmoordlijn.be',
+        networking: [
+          { type: 'twitter', url: 'https://twitter.com/Zelfmoord1813' },
+          { type: 'youtube', url: 'https://www.youtube.com/user/Zelfmoord1813' }
+        ]
+      }
+    ]
+  },  
+  {
     title: 'Canadá',
     info: [
       {
@@ -108,6 +141,484 @@ var contacts = [
           { type: 'facebook',  url: 'https://www.facebook.com/CanadianAssociationforSuicidePrevention' },
           { type: 'twitter',   url: 'https://twitter.com/casp_ca' },
           { type: 'instagram', url: 'https://www.instagram.com/canadianassociationsuicideprev' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Coreia do Sul',
+    info: [
+      {
+        name: '중앙자살예방센터 (Centro de prevenção ao suicídio da Coreia)',
+        url: 'https://www.sadag.org',
+        phone: ['1393','+82 2-2203-0053'],
+        email: 'spc@spckorea.or.kr',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/spckorea129' }
+        ]
+      },
+      {
+        name: 'HopeClick',
+        url: 'http://www.hopeclick.or.kr',
+        phone: '129'
+      },
+      {
+        name: '보건복지부 보건복지콜센터 (Central de atendimento do Ministério da Saúde e Bem-estar)',
+        phone: '129 (24시간 위기상담/linha 24 horas)'
+      },
+      {
+        name: '정신건강증진센터 정신건강위기상담전화 (aconselhamento para episódios de crise de saúde mental)',
+        phone: '1577-0199 (24시간 위기상담/linha 24 horas)'
+      }
+    ]
+  },
+  {
+    title: 'Dinamarca',
+    info: [
+      {
+        name: 'Livslinien',
+        url: 'https://www.livslinien.dk',
+        phone: '70 201 201',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/Livslinien' },          
+          { type: 'instagram', url: 'https://www.instagram.com/livslinien' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/livslinien' },
+        ]
+      },
+      {
+        name: 'Børne',
+        url: 'https://bornetelefonen.dk',
+        phone: ' 116 111 (a linha destinada a crianças atende diariamente das 11h às 23h)'
+      }
+    ]
+  },
+  {
+    title: 'Espanha',
+    info: [
+      {
+        name: 'Teléfono de la Esperanza',
+        url: 'http://telefonodelaesperanza.org',
+        phone: ['+34 717 003 717','902500002'],
+        email: 'secretariageneral@telefonodelaesperanza.org',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/telesperanza' },
+          { type: 'twitter',   url: 'https://twitter.com/Tel_Esperanza' },
+          { type: 'instagram', url: 'https://www.instagram.com/tfdelaesperanza_717003717/?hl=es' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/telefonoesperanza' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Estados Unidos',
+    info: [
+      {
+        name: 'National Suicide Prevention Lifeline',
+        url: 'https://suicidepreventionlifeline.org',
+        phone: '1 800 273 TALK (8255)',
+        email: 'jo@samaritans.org',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/800273talk' },
+          { type: 'twitter',  url: 'https://twitter.com/800273TALK' },
+          { type: 'youtube',  url: 'https://www.youtube.com/user/800273TALK' }
+        ]
+      },
+      {
+        name: 'Veterans/Military Crisis Line',
+        url: 'https://www.veteranscrisisline.net',
+        phone: '1 800 273 8255 (pressione 1)',
+        sms: '838255'
+      },
+      {
+        name: 'The Trevor Project',
+        url: 'https://www.veteranscrisisline.net',
+        phone: '1-866-488-7386',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/TheTrevorProject' },
+          { type: 'twitter',   url: 'https://twitter.com/trevorproject' },
+          { type: 'instagram', url: 'https://www.instagram.com/trevorproject' },
+          { type: 'youtube',   url: 'https://www.youtube.com/thetrevorproject' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Finlândia',
+    info: [
+      {
+        name: 'Suomen Mielenterveysseura',
+        url: 'https://mieli.fi',
+        phone: ['01019 5202', '09 2525 0111'],
+        email: 'sos-keskus@mieli.fi',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/mielenterveys' },          
+          { type: 'twitter',   url: 'https://twitter.com/mielenterveys' },
+          { type: 'instagram', url: 'https://www.instagram.com/mielenterveys' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/Mielenterveysseura' },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'França',
+    info: [
+      {
+        name: 'S.O.S Amitié',
+        url: 'https://www.sos-amitie.org',
+        phone: ['01 42 96 26 26', '09 72 39 40 50', '01 46 21 46 46', '01 40 09 15 22'],
+        email: 'administration@sos-amitie.com',
+        networking: [
+          { type: 'facebook', url: 'http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116' },
+          { type: 'youtube',  url: 'http://www.youtube.com/user/sosamitie' },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Grécia',
+    info: [
+      {
+        name: 'ONG Klimaka',
+        url: 'http://www.klimaka.org.gr',
+        phone: '210-3417160-2',
+        email: 'central@klimaka.org.gr',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/klimakango' },
+          { type: 'twitter',   url: 'https://twitter.com/klimaka_ngo' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/klimakaMKO' },
+        ]
+      },
+      {
+        name: 'Suicide Help Greece',
+        url: 'http://www.suicide-help.gr',
+        phone: '1018'
+      }
+    ]
+  },
+  {
+    title: 'Holanda',
+    info: [
+      {
+        name: 'Foundation 113Online',
+        url: 'https://www.113.nl',
+        phone: ['0800-0113','0900-113 0 113'],
+        email: 'info@113.nl',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/113Zelfmoordpreventie' },
+          { type: 'twitter',   url: 'https://twitter.com/113preventie' },
+          { type: 'instagram', url: 'https://www.instagram.com/113zelfmoordpreventie' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/113zelfmoordpreventie' },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Hong Kong',
+    info: [
+      {
+        name: 'Suicide self-treatment mutual Hong Kong',
+        url: 'http://www.help4suicide.com.hk',
+        phone: '210-3417160-2',
+        email: 'soulbox@sbhk.org.hk',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/HELP4SUICIDE' }
+        ]
+      },
+      {
+        name: 'The Samaritan Befrienders Hong Kong',
+        url: 'http://www.sbhk.org.hk',
+        phone: ['2389 2222', '2389 2223'],
+        email: 'admin@sbhk.org.hk',
+        networking: [
+          { type: 'facebook', url: 'http://www.facebook.com/sbhk.org' },
+          { type: 'youtube',  url: 'http://www.youtube.com/user/helpforsuicide' }
+        ]
+      },
+      {
+        name: 'The Samaritans Hong Kong',
+        url: 'https://samaritans.org.hk',
+        phone: '2896 0000',
+        email: 'jo@samaritans.org.hk',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/SamaritansHongKong/' },
+          { type: 'twitter',  url: 'https://twitter.com/samaritans_hk' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Hungria',
+    info: [
+      {
+        name: 'Magyar Lelki Elsősegély Telefonszolgálatok Szövetsége',
+        url: 'https://sos116-123.hu',
+        phone: ['116 123', '30 670 1709'],
+        skype: 'lelkigondozas1',
+        email: 'sos116123@gmail.com',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/Magyar-Lelki-Els%C5%91seg%C3%A9ly-Telefonszolg%C3%A1latok-Sz%C3%B6vets%C3%A9ge-LESZ-148380928544430' }
+        ]
+      },
+      {
+        name: 'Kek Vonal',
+        phone: '116-111'
+      }
+    ]
+  },
+  {
+    title: 'Índia',
+    info: [
+      {
+        name: 'AASRA',
+        url: 'https://sos116-123.hu',
+        phone: ['91-9820466726', '91-22-27546669', '91-22-27546667'],
+        skype: 'lelkigondozas1',
+        email: 'aasrahelpline@yahoo.com',
+        networking: [
+          { type: 'facebook', url: 'http://www.facebook.com/aasrasuicideprevention' },
+          { type: 'twitter',  url: 'http://www.twitter.com/aasradotinfo' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Israel',
+    info: [
+      {
+        name: 'ERAN',
+        url: 'http://www.eran.org.il',
+        phone: ['1201 (ligação gratuita em Israel)', '972-76-8844400 (fora de Israel)', '076-8844400'],
+        email: 'eran1201@eran.org.il',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/eran.org.il' },
+          { type: 'instagram', url: 'https://www.instagram.com/eran_1201' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UCDDx1k4i3siQaejE1VB82ig' }
+        ]
+      },
+      {
+        name: 'SAHAR (rede de apoio emocional em hebreu)',
+        url: 'http://www.sahar.org.il',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/saharhelponline' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Itália',
+    info: [
+      {
+        name: 'Telefono Azzurro',
+        url: 'http://www.eran.org.il',
+        phone: '19696',
+        email: 'serviziosostenitori@azzurro.it',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/TelefonoAzzurroOnlus' },
+          { type: 'instagram', url: 'https://www.instagram.com/telefono_azzurro' },
+          { type: 'twitter',   url: 'https://twitter.com/telefonoazzurro' },
+          { type: 'youtube',   url: 'https://www.instagram.com/telefono_azzurro' },
+          { type: 'linkedin',  url: 'https://it.linkedin.com/company/s.o.s.---telefono-azzurro' }
+        ]
+      },
+      {
+        name: 'Telefono Amico',
+        url: 'http://www.sahar.org.il',
+        phone: ['199 284 284', '02 2327 2327'],
+        email: 'info@telefonoamico.it',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/telefonoamicoitalia' },
+          { type: 'instagram', url: 'https://www.instagram.com/telefonoamicoit' },
+          { type: 'twitter',   url: 'https://twitter.com/telefonoamicoit' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UC_wioI1TK69kSKRQePpXCcw' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Letônia',
+    info: [
+      {
+        name: 'Skalbes',
+        url: 'http://www.skalbes.lv',
+        phone: ['371 67222922', '371 27722292', '24 551 700'],
+        skype: 'skalbes',
+        email: 'skalbes@skalbes.lv',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/skalbes' },
+          { type: 'twitter',  url: 'https://twitter.com/skalbes' },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Lituânia',
+    info: [
+      {
+        name: 'Lithuanian Association of Emotional Support Lines',
+        url: 'http://www.klausau.lt',
+        phone: '1809'
+      },
+      {
+        name: 'Vaikų linija (linha destinada a crianças)',
+        url: 'https://www.vaikulinija.lt',
+        phone: '116 111',
+        networking: [
+          { type: 'facebook', url: 'http://www.facebook.com/vaikulinija' }
+        ]
+      },
+      {
+        name: 'Jaunimo linija (linha destinada a jovens)',
+        url: 'https://www.jaunimolinija.lt',
+        phone: '8 800 28888'
+      },
+      {
+        name: 'Vilties linija (linha da esperança)',
+        url: 'https://kpsc.lt',
+        phone: ['116 123', '8 (46) 41 00 27'],
+        email: 'info@kpsc.lt'
+      },
+      {
+        name: 'Pagalbos moterims linija (linha destinada a mulheres)',
+        url: 'https://www.moteriai.lt',
+        phone: '8 800 66366',
+        email: 'pagalba@moteriai.lt',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/nedelsk' },
+          { type: 'instagram', url: 'https://www.instagram.com/ksppc.nedelsk' }
+        ]
+      },
+      {
+        name: 'Linija Doverija (linha destinada a falantes de russo)',
+        phone: '8 800 77277'
+      }
+    ]
+  },
+  {
+    title: 'Luxemburgo',
+    info: [
+      {
+        name: 'SOS Détresse – Hëllef iwwer Telefon',
+        url: 'https://454545.lu',
+        phone: '454545',
+        email: 'info@sosdetresse.lu',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/454545.lu' }
+        ]
+      },
+      {
+        name: 'Kanner-Jugendtelefon',
+        url: 'http://www.kjt.lu',
+        phone: '116 111',
+        networking: [
+          { type: 'facebook', url: 'https://de-de.facebook.com/kannerjugendtelefon' },
+          { type: 'twitter',  url: 'https://twitter.com/kajutel' },
+          { type: 'youtube',  url: 'https://www.youtube.com/channel/UC7LEzAoxc7pHXX5NmSLVgsQ' },
+        ]
+      }
+    ]
+  },
+  {
+    title: 'México',
+    info: [
+      {
+        name: 'Consejo Ciudadano',
+        url: 'https://consejociudadanomx.org',
+        phone: '55 5533-5533',
+        email: 'contacto@consejociudadanomx.org',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/ConsejoCiudadanoMx' },
+          { type: 'twitter',   url: 'https://twitter.com/elconsejomx' },
+          { type: 'instagram', url: 'https://www.instagram.com/consejociudadanomx' },
+          { type: 'whatsapp',  url: 'https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/consejociudadano' },
+        ]
+      },
+      {
+        name: 'Instituto Hispanoamericano de Suicidologia, A.C',
+        phone: '+5255 46313300',
+        email: 'info@suicidiologia.com.mx'
+      }
+    ]
+  },
+  {
+    title: 'Noruega',
+    info: [
+      {
+        name: 'Kirkens SOS',
+        url: 'https://www.kirkens-sos.no',
+        phone: ['815 33 300', '+47 23 08 13 80', '+47 22 40 00 40'],
+        email: 'post@kirkens-sos.no',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/kirkensSOSNorge' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Nova Zelândia',
+    info: [
+      {
+        name: 'National Depression Initiative',
+        url: 'http://www.depression.org.nz',
+        phone: '0800 111 757',
+        sms: '4202',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/SmallStepsNZ' }
+        ]
+      },
+      {
+        name: 'The Lowdown',
+        url: 'http://www.thelowdown.co.nz',
+        phone: '0800 111 757',
+        sms: '5626',
+        email: 'team@thelowdown.co.nz',
+        networking: [
+          { type: 'youtube', url: 'https://www.youtube.com/channel/UCLp9zlalIVfqJ8FPbS8k8Ww' }
+        ]
+      },
+      {
+        name: 'Youthline',
+        url: 'https://www.youthline.co.nz',
+        phone: '0800 376 633',
+        sms: '234',
+        email: 'talk@youthline.co.nz',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/Youthline.Changing.Lives' },
+          { type: 'twitter',   url: 'https://twitter.com/youthline' },
+          { type: 'instagram', url: 'https://www.instagram.com/youthlinenz' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg' }
+        ]
+      }
+    ]
+  },  
+  {
+    title: 'Polônia',
+    info: [
+      {
+        name: 'Fundacja Dzieci Niczyje',
+        url: 'https://116111.pl',
+        phone: '116 111',
+        networking: [
+          { type: 'instagram', url: 'http://instagram.com/116111.pl' }
+        ]
+      }
+    ]
+  },
+  {
+    title: 'Reino Unido e Irlanda',
+    info: [
+      {
+        name: 'Samaritans',
+        url: 'http://www.samaritans.org',
+        phone: '116 123',
+        email: 'jo@samaritans.org',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/samaritanscharity' },
+          { type: 'twitter',   url: 'https://twitter.com/samaritans' },
+          { type: 'instagram', url: 'https://www.instagram.com/samaritanscharity' },
+          { type: 'youtube',   url: 'https://www.youtube.com/user/samaritans' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/samaritans' }
         ]
       }
     ]
@@ -168,406 +679,6 @@ var contacts = [
     ]
   },
   {
-    title: 'Dinamarca',
-    info: [
-      {
-        name: 'Livslinien',
-        url: 'https://www.livslinien.dk',
-        phone: '70 201 201',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/Livslinien' },          
-          { type: 'instagram', url: 'https://www.instagram.com/livslinien' },
-          { type: 'linkedin',  url: 'https://www.linkedin.com/company/livslinien' },
-        ]
-      },
-      {
-        name: 'Børne',
-        url: 'https://bornetelefonen.dk',
-        phone: ' 116 111 (a linha destinada a crianças atende diariamente das 11h às 23h)'
-      }
-    ]
-  },
-  {
-    title: 'Finlândia',
-    info: [
-      {
-        name: 'Suomen Mielenterveysseura',
-        url: 'https://mieli.fi',
-        phone: ['01019 5202', '09 2525 0111'],
-        email: 'sos-keskus@mieli.fi',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/mielenterveys' },          
-          { type: 'twitter',   url: 'https://twitter.com/mielenterveys' },
-          { type: 'instagram', url: 'https://www.instagram.com/mielenterveys' },
-          { type: 'youtube',   url: 'https://www.youtube.com/user/Mielenterveysseura' },
-        ]
-      }
-    ]
-  },
-  {
-    title: 'França',
-    info: [
-      {
-        name: 'S.O.S Amitié',
-        url: 'https://www.sos-amitie.org',
-        phone: ['01 42 96 26 26', '09 72 39 40 50', '01 46 21 46 46', '01 40 09 15 22'],
-        email: 'administration@sos-amitie.com',
-        networking: [
-          { type: 'facebook', url: 'http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116' },
-          { type: 'youtube',  url: 'http://www.youtube.com/user/sosamitie' },
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Alemanha',
-    info: [
-      {
-        name: 'Telefonseelsorge',
-        url: 'https://www.telefonseelsorge.de',
-        phone: ['0800 111 0 111', '0800 111 0 222'],
-        email: 'online.telefonseelsorge.de'
-      },
-      {
-        name: 'Nummer gegen Kummer',
-        url: 'https://www.nummergegenkummer.de',
-        phone: ['0800 111 0 550 (linha destinada a adultos)', '0800 111 0 333 (linha destinada a crianças)'],
-        email: 'info@nummergegenkummer.de'
-      }
-    ]
-  },
-  {
-    title: 'Grécia',
-    info: [
-      {
-        name: 'ONG Klimaka',
-        url: 'http://www.klimaka.org.gr',
-        phone: '210-3417160-2',
-        email: 'central@klimaka.org.gr',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/klimakango' },
-          { type: 'twitter',   url: 'https://twitter.com/klimaka_ngo' },
-          { type: 'youtube',   url: 'https://www.youtube.com/user/klimakaMKO' },
-        ]
-      },
-      {
-        name: 'Suicide Help Greece',
-        url: 'http://www.suicide-help.gr',
-        phone: '1018'
-      }
-    ]
-  },
-  {
-    title: 'Hong Kong',
-    info: [
-      {
-        name: 'Suicide self-treatment mutual Hong Kong',
-        url: 'http://www.help4suicide.com.hk',
-        phone: '210-3417160-2',
-        email: 'soulbox@sbhk.org.hk',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/HELP4SUICIDE' }
-        ]
-      },
-      {
-        name: 'The Samaritan Befrienders Hong Kong',
-        url: 'http://www.sbhk.org.hk',
-        phone: ['2389 2222', '2389 2223'],
-        email: 'admin@sbhk.org.hk',
-        networking: [
-          { type: 'facebook',  url: 'http://www.facebook.com/sbhk.org' },
-          { type: 'youtube',  url: 'http://www.youtube.com/user/helpforsuicide' }
-        ]
-      },
-      {
-        name: 'The Samaritans Hong Kong',
-        url: 'https://samaritans.org.hk',
-        phone: '2896 0000',
-        email: 'jo@samaritans.org.hk',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/SamaritansHongKong/' },
-          { type: 'twitter',  url: 'https://twitter.com/samaritans_hk' }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Hungria',
-    info: [
-      {
-        name: 'Magyar Lelki Elsősegély Telefonszolgálatok Szövetsége',
-        url: 'https://sos116-123.hu',
-        phone: ['116 123', '30 670 1709'],
-        skype: 'lelkigondozas1',
-        email: 'sos116123@gmail.com',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/Magyar-Lelki-Els%C5%91seg%C3%A9ly-Telefonszolg%C3%A1latok-Sz%C3%B6vets%C3%A9ge-LESZ-148380928544430' }
-        ]
-      },
-      {
-        name: 'Kek Vonal',
-        phone: '116-111'
-      }
-    ]
-  },
-  {
-    title: 'Índia',
-    info: [
-      {
-        name: 'AASRA',
-        url: 'https://sos116-123.hu',
-        phone: ['91-9820466726', '91-22-27546669', '91-22-27546667'],
-        skype: 'lelkigondozas1',
-        email: 'aasrahelpline@yahoo.com',
-        networking: [
-          { type: 'facebook',  url: 'http://www.facebook.com/aasrasuicideprevention' },
-          { type: 'twitter',  url: 'http://www.twitter.com/aasradotinfo' }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Israel',
-    info: [
-      {
-        name: 'ERAN',
-        url: 'http://www.eran.org.il',
-        phone: ['1201 (ligação gratuita em Israel)', '972-76-8844400 (fora de Israel)', '076-8844400'],
-        email: 'eran1201@eran.org.il',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/eran.org.il' },
-          { type: 'instagram',  url: 'https://www.instagram.com/eran_1201' },
-          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCDDx1k4i3siQaejE1VB82ig' }
-        ]
-      },
-      {
-        name: 'SAHAR (rede de apoio emocional em hebreu)',
-        url: 'http://www.sahar.org.il',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/saharhelponline' }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Itália',
-    info: [
-      {
-        name: 'Telefono Azzurro',
-        url: 'http://www.eran.org.il',
-        phone: '19696',
-        email: 'serviziosostenitori@azzurro.it',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/TelefonoAzzurroOnlus' },
-          { type: 'instagram',  url: 'https://www.instagram.com/telefono_azzurro' },
-          { type: 'twitter',  url: 'https://twitter.com/telefonoazzurro' },
-          { type: 'youtube',  url: 'https://www.instagram.com/telefono_azzurro' },
-          { type: 'linkedin',  url: 'https://it.linkedin.com/company/s.o.s.---telefono-azzurro' }
-        ]
-      },
-      {
-        name: 'Telefono Amico',
-        url: 'http://www.sahar.org.il',
-        phone: ['199 284 284', '02 2327 2327'],
-        email: 'info@telefonoamico.it',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/telefonoamicoitalia' },
-          { type: 'instagram',  url: 'https://www.instagram.com/telefonoamicoit' },
-          { type: 'twitter',  url: 'https://twitter.com/telefonoamicoit' },
-          { type: 'youtube',  url: 'https://www.youtube.com/channel/UC_wioI1TK69kSKRQePpXCcw' }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Letônia',
-    info: [
-      {
-        name: 'Skalbes',
-        url: 'http://www.skalbes.lv',
-        phone: ['371 67222922', '371 27722292', '24 551 700'],
-        skype: 'skalbes',
-        email: 'skalbes@skalbes.lv',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/skalbes' },
-          { type: 'twitter',  url: 'https://twitter.com/skalbes' },
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Lituânia',
-    info: [
-      {
-        name: 'Lithuanian Association of Emotional Support Lines',
-        url: 'http://www.klausau.lt',
-        phone: '1809'
-      },
-      {
-        name: 'Vaikų linija (linha destinada a crianças)',
-        url: 'https://www.vaikulinija.lt',
-        phone: '116 111',
-        networking: [
-          { type: 'facebook', url: 'http://www.facebook.com/vaikulinija' }
-        ]
-      },
-      {
-        name: 'Jaunimo linija (linha destinada a jovens)',
-        url: 'https://www.jaunimolinija.lt',
-        phone: '8 800 28888'
-      },
-      {
-        name: 'Vilties linija (linha da esperança)',
-        url: 'https://kpsc.lt',
-        phone: ['116 123', '8 (46) 41 00 27'],
-        email: 'info@kpsc.lt'
-      },
-      {
-        name: 'Pagalbos moterims linija (linha destinada a mulheres)',
-        url: 'https://www.moteriai.lt',
-        phone: '8 800 66366',
-        email: 'pagalba@moteriai.lt',
-        networking: [
-          { type: 'facebook', url: 'https://www.facebook.com/nedelsk' },
-          { type: 'instagram', url: 'https://www.instagram.com/ksppc.nedelsk' }
-        ]
-      },
-      {
-        name: 'Linija Doverija (linha destinada a falantes de russo)',
-        phone: '8 800 77277'
-      }
-    ]
-  },
-  {
-    title: 'Luxemburgo',
-    info: [
-      {
-        name: 'SOS Détresse – Hëllef iwwer Telefon',
-        url: 'https://454545.lu',
-        phone: '454545',
-        email: 'info@sosdetresse.lu',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/454545.lu' }
-        ]
-      },
-      {
-        name: 'Kanner-Jugendtelefon',
-        url: 'http://www.kjt.lu',
-        phone: '116 111',
-        networking: [
-          { type: 'facebook',  url: 'https://de-de.facebook.com/kannerjugendtelefon' },
-          { type: 'twitter',  url: 'https://twitter.com/kajutel' },
-          { type: 'youtube',  url: 'https://www.youtube.com/channel/UC7LEzAoxc7pHXX5NmSLVgsQ' },
-        ]
-      }
-    ]
-  },
-  {
-    title: 'México',
-    info: [
-      {
-        name: 'Consejo Ciudadano',
-        url: 'https://consejociudadanomx.org',
-        phone: '55 5533-5533',
-        email: 'contacto@consejociudadanomx.org',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/ConsejoCiudadanoMx' },
-          { type: 'twitter',  url: 'https://twitter.com/elconsejomx' },
-          { type: 'instagram',  url: 'https://www.instagram.com/consejociudadanomx' },
-          { type: 'whatsapp',  url: 'https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda' },
-          { type: 'youtube',  url: 'https://www.youtube.com/user/consejociudadano' },
-        ]
-      },
-      {
-        name: 'Instituto Hispanoamericano de Suicidologia, A.C',
-        phone: '+5255 46313300',
-        email: 'info@suicidiologia.com.mx'
-      }
-    ]
-  },
-  {
-    title: 'Holanda',
-    info: [
-      {
-        name: 'Foundation 113Online',
-        url: 'https://www.113.nl',
-        phone: ['0800-0113','0900-113 0 113'],
-        email: 'info@113.nl',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/113Zelfmoordpreventie' },
-          { type: 'twitter',  url: 'https://twitter.com/113preventie' },
-          { type: 'instagram',  url: 'https://www.instagram.com/113zelfmoordpreventie' },
-          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA' },
-          { type: 'linkedin',  url: 'https://www.linkedin.com/company/113zelfmoordpreventie' },
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Nova Zelândia',
-    info: [
-      {
-        name: 'National Depression Initiative',
-        url: 'http://www.depression.org.nz',
-        phone: '0800 111 757',
-        sms: '4202',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/SmallStepsNZ' }
-        ]
-      },
-      {
-        name: 'The Lowdown',
-        url: 'http://www.thelowdown.co.nz',
-        phone: '0800 111 757',
-        sms: '5626',
-        email: 'team@thelowdown.co.nz',
-        networking: [
-          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCLp9zlalIVfqJ8FPbS8k8Ww' }
-        ]
-      },
-      {
-        name: 'Youthline',
-        url: 'https://www.youthline.co.nz',
-        phone: '0800 376 633',
-        sms: '234',
-        email: 'talk@youthline.co.nz',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/Youthline.Changing.Lives' },
-          { type: 'twitter',  url: 'https://twitter.com/youthline' },
-          { type: 'instagram',  url: 'https://www.instagram.com/youthlinenz' },
-          { type: 'youtube',  url: 'https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg' }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Noruega',
-    info: [
-      {
-        name: 'Kirkens SOS',
-        url: 'https://www.kirkens-sos.no',
-        phone: ['815 33 300', '+47 23 08 13 80', '+47 22 40 00 40'],
-        email: 'post@kirkens-sos.no',
-        networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/kirkensSOSNorge' }
-        ]
-      }
-    ]
-  },
-  {
-    title: 'Polônia',
-    info: [
-      {
-        name: 'Fundacja Dzieci Niczyje',
-        url: 'https://116111.pl',
-        phone: '116 111',
-        networking: [
-          { type: 'instagram',  url: 'http://instagram.com/116111.pl' }
-        ]
-      }
-    ]
-  },
-  {
     title: 'Sérvia',
     info: [
       {
@@ -576,7 +687,7 @@ var contacts = [
         phone: '0800 300 303',
         email: 'vanja@centarsrce.org',
         networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/CentarSrce' },
+          { type: 'facebook', url: 'https://www.facebook.com/CentarSrce' },
           { type: 'twitter',  url: 'https://twitter.com/CentarSrce' },
           { type: 'youtube',  url: 'https://www.youtube.com/user/centarsrce' }
         ]
@@ -593,26 +704,58 @@ var contacts = [
         email: 'pat@sos.org.sg',
         networking: [
           { type: 'facebook',  url: 'https://www.facebook.com/SamaritansOfSingapore' },
-          { type: 'instagram',  url: 'https://www.instagram.com/samaritansofsingapore' },
-          { type: 'twitter',  url: 'https://twitter.com/samaritansofsg' },
+          { type: 'instagram', url: 'https://www.instagram.com/samaritansofsingapore' },
+          { type: 'twitter',   url: 'https://twitter.com/samaritansofsg' },
           { type: 'linkedin',  url: 'https://sg.linkedin.com/company/sos-samaritans-of-singapore' }
+        ]
+      }
+    ]
+  },  
+  {
+    title: 'Suécia',
+    info: [
+      {
+        name: 'Mind',
+        url: 'https://mind.se',
+        phone: ['08–34 70 65', 'Org.nr. 802002-7291', 'Swish: 9008533', 'PG: 90 08 53-3', 'BG: 900-8533'],
+        email: 'info@mind.se',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/mindsweden' },
+          { type: 'twitter',   url: 'https://twitter.com/MindSverige' },
+          { type: 'instagram', url: 'https://www.instagram.com/mindsverige' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UC4j2X8itUXDWDmYe-v4NCew' },
+          { type: 'linkedin',  url: 'https://www.linkedin.com/company/mind-sweden-/' }
         ]
       }
     ]
   },
   {
-    title: 'África do Sul',
+    title: 'Suíça',
     info: [
       {
-        name: 'The South African Depression and Anxiety Group (SADAG)',
-        url: 'https://www.sadag.org',
-        phone: ['0800 21 22 23 ', '0800 456 789', '0800 567 567', '011 234 4837'],
-        sms: '31393',
-        email: 'info@anxiety.org.za',
+        name: 'La Main Tendue – Die Dargebotene Hand – Telefono Amico',
+        url: 'https://www.143.ch',
+        phone: ['143', '031 301 91 91'],
+        email: 'verband@143.ch',
         networking: [
-          { type: 'facebook',  url: 'https://www.facebook.com/TheSADAG' },
-          { type: 'twitter',  url: 'http://twitter.com/TheSADAG' }
+          { type: 'facebook', url: 'https://www.facebook.com/DargeboteneHandTelefonhilfe143' }
         ]
+      }
+    ]
+  },
+  {
+    title: 'Taiwan',
+    info: [
+      {
+        name: 'Taiwan Suicide Prevention Center',
+        url: 'https://www.143.ch',
+        phone: '0800 788 995',
+        email: 'tspc-fb@tsos.org.tw'
+      },
+      {
+        name: 'Kaohsiung Life Line',
+        url: 'http://www.life1995.org.tw',
+        phone: '1995'
       }
     ]
   },

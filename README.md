@@ -11,6 +11,9 @@ Do you are not alone, keep calm, call or send a message.
 ## Global 
 ##### Befrienders 
 * Site: http://www.befrienders.org
+* E-mail: info@befrienders.org
+
+<a href="https://www.facebook.com/befriendersworldwide" target="_blank"><img alt="facebook - https://www.facebook.com/befriendersworldwide" width="50px" src="assets/icons/facebook-logo.svg" /></a>
 
 <hr>
 

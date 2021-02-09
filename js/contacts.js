@@ -2,7 +2,16 @@ let global_icon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480.1 48
 var contacts = [
   {
     title: `Global ${global_icon}`,
-    info: [ { name: 'Befrienders', url: 'http://www.befrienders.org', } ]
+    info: [
+      {
+        name: 'Befrienders',
+        url: 'http://www.befrienders.org',
+        email: 'info@befrienders.org',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/befriendersworldwide' }
+        ]
+      }
+    ]
   },
   {
     title: 'África do Sul',

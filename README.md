@@ -10,6 +10,30 @@ ___
 ##### Befrienders 
 * Site: http://www.befrienders.org
 ___
+## África do Sul
+##### The South African Depression and Anxiety Group (SADAG) 
+* Site: https://www.sadag.org
+* Telefone: 0800 21 22 23 
+* Telefone: 0800 456 789
+* Telefone: 0800 567 567
+* Telefone: 011 234 4837
+* E-mail: info@anxiety.org.za
+* [Facebook](https://www.facebook.com/TheSADAG)
+* [Twitter](http://twitter.com/TheSADAG)
+___
+## Alemanha
+##### Telefonseelsorge 
+* Site: https://www.telefonseelsorge.de
+* Telefone: 0800 111 0 111
+* Telefone: 0800 111 0 222
+* E-mail: online.telefonseelsorge.de
+
+##### Nummer gegen Kummer 
+* Site: https://www.nummergegenkummer.de
+* Telefone: 0800 111 0 550 (linha destinada a adultos)
+* Telefone: 0800 111 0 333 (linha destinada a crianças)
+* E-mail: info@nummergegenkummer.de
+___
 ## Austrália
 ##### Lifeline Australia 
 * Site: http://www.lifeline.org.au
@@ -45,14 +69,6 @@ ___
 * [Instagram](https://www.instagram.com/147rataufdraht)
 * [Youtube](https://www.youtube.com/user/Helpline147)
 ___
-## Bélgica
-##### Centrum Ter Preventie Van Zelfdoding 
-* Site: http://www.zelfmoord1813.be
-* Telefone: 1813
-* E-mail: mail@zelfmoordlijn.be
-* [Twitter](https://twitter.com/Zelfmoord1813)
-* [Youtube](https://www.youtube.com/user/Zelfmoord1813)
-___
 ## Brasil e Portugal
 ##### CVV 
 * Site: http://www.cvv.org.br
@@ -63,6 +79,14 @@ ___
 * [Instagram](https://www.instagram.com/cvvoficial)
 * [Youtube](https://www.youtube.com/user/CVVdivulgacao)
 * [Linkedin](https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida)
+___
+## Bélgica
+##### Centrum Ter Preventie Van Zelfdoding 
+* Site: http://www.zelfmoord1813.be
+* Telefone: 1813
+* E-mail: mail@zelfmoordlijn.be
+* [Twitter](https://twitter.com/Zelfmoord1813)
+* [Youtube](https://www.youtube.com/user/Zelfmoord1813)
 ___
 ## Canadá
 ##### Kids Help Phone (destinada a menores de 20 anos) 
@@ -76,47 +100,23 @@ ___
 * [Twitter](https://twitter.com/casp_ca)
 * [Instagram](https://www.instagram.com/canadianassociationsuicideprev)
 ___
-## República Tcheca
-##### Linka bezpečí 
-* Site: http://www.linkabezpeci.cz
-* Telefone: 116 111
-* E-mail: pomoc@linkabezpeci.cz
-* [Facebook](https://cs-cz.facebook.com/Linkabezpeci)
-* [Twitter](https://twitter.com/Linka_bezpeci)
-* [Youtube](https://www.youtube.com/user/SdruzeniLinkaBezpeci)
+## Coreia do Sul
+##### 중앙자살예방센터 (Centro de prevenção ao suicídio da Coreia) 
+* Site: https://www.sadag.org
+* Telefone: 1393
+* Telefone: +82 2-2203-0053
+* E-mail: spc@spckorea.or.kr
+* [Facebook](https://www.facebook.com/spckorea129)
 
-##### Pražská linka důvěry 
-* Site: https://www.csspraha.cz
-* Telefone: 222 580 697
-* E-mail: casp@suicideprevention.ca
-* [Facebook](https://www.facebook.com/csspraha)
+##### HopeClick 
+* Site: http://www.hopeclick.or.kr
+* Telefone: 129
 
-##### Linka důvěry Ostrava 
-* Site: https://www.mnof.cz
-* Telefone: 596 618 908
-* Telefone: 596 191 111
-* Telefone: 737 267 939
-* E-mail: mnof@mnof.cz
-* [Facebook](https://www.facebook.com/nemocnicefifejdy)
-* [Instagram](https://www.instagram.com/porodnicefifejdy)
-* [Youtube](https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA)
+##### 보건복지부 보건복지콜센터 (Central de atendimento do Ministério da Saúde e Bem-estar) 
+* Telefone: 129 (24시간 위기상담/linha 24 horas)
 
-##### Linka duševní tísně Most 
-* Site: http://www.mostknadeji.eu
-* Telefone: 476 701 444
-* Skype: <a href='skype:ldt.most?call'>ldt.most</a>
-* E-mail: reditel@mostknadeji.cz
-
-##### Linka důvěry DKC 
-* Site: https://www.ditekrize.cz
-* Telefone: 241 484 149
-* Telefone: 777 715 215
-* Telefone: 778 510 510
-* Skype: <a href='skype:ld_dkc?call'>ld_dkc</a>
-* E-mail: problem@ditekrize.cz
-* [Facebook](https://www.facebook.com/DKCcz)
-* [Instagram](https://www.instagram.com/detske_krizove_centrum)
-* [Linkedin](https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb)
+##### 정신건강증진센터 정신건강위기상담전화 (aconselhamento para episódios de crise de saúde mental) 
+* Telefone: 1577-0199 (24시간 위기상담/linha 24 horas)
 ___
 ## Dinamarca
 ##### Livslinien 
@@ -129,6 +129,38 @@ ___
 ##### Børne 
 * Site: https://bornetelefonen.dk
 * Telefone:  116 111 (a linha destinada a crianças atende diariamente das 11h às 23h)
+___
+## Espanha
+##### Teléfono de la Esperanza 
+* Site: http://telefonodelaesperanza.org
+* Telefone: +34 717 003 717
+* Telefone: 902500002
+* E-mail: secretariageneral@telefonodelaesperanza.org
+* [Facebook](https://www.facebook.com/telesperanza)
+* [Twitter](https://twitter.com/Tel_Esperanza)
+* [Instagram](https://www.instagram.com/tfdelaesperanza_717003717/?hl=es)
+* [Youtube](https://www.youtube.com/user/telefonoesperanza)
+___
+## Estados Unidos
+##### National Suicide Prevention Lifeline 
+* Site: https://suicidepreventionlifeline.org
+* Telefone: 1 800 273 TALK (8255)
+* E-mail: jo@samaritans.org
+* [Facebook](https://www.facebook.com/800273talk)
+* [Twitter](https://twitter.com/800273TALK)
+* [Youtube](https://www.youtube.com/user/800273TALK)
+
+##### Veterans/Military Crisis Line 
+* Site: https://www.veteranscrisisline.net
+* Telefone: 1 800 273 8255 (pressione 1)
+
+##### The Trevor Project 
+* Site: https://www.veteranscrisisline.net
+* Telefone: 1-866-488-7386
+* [Facebook](https://www.facebook.com/TheTrevorProject)
+* [Twitter](https://twitter.com/trevorproject)
+* [Instagram](https://www.instagram.com/trevorproject)
+* [Youtube](https://www.youtube.com/thetrevorproject)
 ___
 ## Finlândia
 ##### Suomen Mielenterveysseura 
@@ -152,19 +184,6 @@ ___
 * [Facebook](http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116)
 * [Youtube](http://www.youtube.com/user/sosamitie)
 ___
-## Alemanha
-##### Telefonseelsorge 
-* Site: https://www.telefonseelsorge.de
-* Telefone: 0800 111 0 111
-* Telefone: 0800 111 0 222
-* E-mail: online.telefonseelsorge.de
-
-##### Nummer gegen Kummer 
-* Site: https://www.nummergegenkummer.de
-* Telefone: 0800 111 0 550 (linha destinada a adultos)
-* Telefone: 0800 111 0 333 (linha destinada a crianças)
-* E-mail: info@nummergegenkummer.de
-___
 ## Grécia
 ##### ONG Klimaka 
 * Site: http://www.klimaka.org.gr
@@ -177,6 +196,18 @@ ___
 ##### Suicide Help Greece 
 * Site: http://www.suicide-help.gr
 * Telefone: 1018
+___
+## Holanda
+##### Foundation 113Online 
+* Site: https://www.113.nl
+* Telefone: 0800-0113
+* Telefone: 0900-113 0 113
+* E-mail: info@113.nl
+* [Facebook](https://www.facebook.com/113Zelfmoordpreventie)
+* [Twitter](https://twitter.com/113preventie)
+* [Instagram](https://www.instagram.com/113zelfmoordpreventie)
+* [Youtube](https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA)
+* [Linkedin](https://www.linkedin.com/company/113zelfmoordpreventie)
 ___
 ## Hong Kong
 ##### Suicide self-treatment mutual Hong Kong 
@@ -329,17 +360,14 @@ ___
 * Telefone: +5255 46313300
 * E-mail: info@suicidiologia.com.mx
 ___
-## Holanda
-##### Foundation 113Online 
-* Site: https://www.113.nl
-* Telefone: 0800-0113
-* Telefone: 0900-113 0 113
-* E-mail: info@113.nl
-* [Facebook](https://www.facebook.com/113Zelfmoordpreventie)
-* [Twitter](https://twitter.com/113preventie)
-* [Instagram](https://www.instagram.com/113zelfmoordpreventie)
-* [Youtube](https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA)
-* [Linkedin](https://www.linkedin.com/company/113zelfmoordpreventie)
+## Noruega
+##### Kirkens SOS 
+* Site: https://www.kirkens-sos.no
+* Telefone: 815 33 300
+* Telefone: +47 23 08 13 80
+* Telefone: +47 22 40 00 40
+* E-mail: post@kirkens-sos.no
+* [Facebook](https://www.facebook.com/kirkensSOSNorge)
 ___
 ## Nova Zelândia
 ##### National Depression Initiative 
@@ -362,20 +390,64 @@ ___
 * [Instagram](https://www.instagram.com/youthlinenz)
 * [Youtube](https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg)
 ___
-## Noruega
-##### Kirkens SOS 
-* Site: https://www.kirkens-sos.no
-* Telefone: 815 33 300
-* Telefone: +47 23 08 13 80
-* Telefone: +47 22 40 00 40
-* E-mail: post@kirkens-sos.no
-* [Facebook](https://www.facebook.com/kirkensSOSNorge)
-___
 ## Polônia
 ##### Fundacja Dzieci Niczyje 
 * Site: https://116111.pl
 * Telefone: 116 111
 * [Instagram](http://instagram.com/116111.pl)
+___
+## Reino Unido e Irlanda
+##### Samaritans 
+* Site: http://www.samaritans.org
+* Telefone: 116 123
+* E-mail: jo@samaritans.org
+* [Facebook](https://www.facebook.com/samaritanscharity)
+* [Twitter](https://twitter.com/samaritans)
+* [Instagram](https://www.instagram.com/samaritanscharity)
+* [Youtube](https://www.youtube.com/user/samaritans)
+* [Linkedin](https://www.linkedin.com/company/samaritans)
+___
+## República Tcheca
+##### Linka bezpečí 
+* Site: http://www.linkabezpeci.cz
+* Telefone: 116 111
+* E-mail: pomoc@linkabezpeci.cz
+* [Facebook](https://cs-cz.facebook.com/Linkabezpeci)
+* [Twitter](https://twitter.com/Linka_bezpeci)
+* [Youtube](https://www.youtube.com/user/SdruzeniLinkaBezpeci)
+
+##### Pražská linka důvěry 
+* Site: https://www.csspraha.cz
+* Telefone: 222 580 697
+* E-mail: casp@suicideprevention.ca
+* [Facebook](https://www.facebook.com/csspraha)
+
+##### Linka důvěry Ostrava 
+* Site: https://www.mnof.cz
+* Telefone: 596 618 908
+* Telefone: 596 191 111
+* Telefone: 737 267 939
+* E-mail: mnof@mnof.cz
+* [Facebook](https://www.facebook.com/nemocnicefifejdy)
+* [Instagram](https://www.instagram.com/porodnicefifejdy)
+* [Youtube](https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA)
+
+##### Linka duševní tísně Most 
+* Site: http://www.mostknadeji.eu
+* Telefone: 476 701 444
+* Skype: <a href='skype:ldt.most?call'>ldt.most</a>
+* E-mail: reditel@mostknadeji.cz
+
+##### Linka důvěry DKC 
+* Site: https://www.ditekrize.cz
+* Telefone: 241 484 149
+* Telefone: 777 715 215
+* Telefone: 778 510 510
+* Skype: <a href='skype:ld_dkc?call'>ld_dkc</a>
+* E-mail: problem@ditekrize.cz
+* [Facebook](https://www.facebook.com/DKCcz)
+* [Instagram](https://www.instagram.com/detske_krizove_centrum)
+* [Linkedin](https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb)
 ___
 ## Sérvia
 ##### Centar Srce 
@@ -396,16 +468,38 @@ ___
 * [Twitter](https://twitter.com/samaritansofsg)
 * [Linkedin](https://sg.linkedin.com/company/sos-samaritans-of-singapore)
 ___
-## África do Sul
-##### The South African Depression and Anxiety Group (SADAG) 
-* Site: https://www.sadag.org
-* Telefone: 0800 21 22 23 
-* Telefone: 0800 456 789
-* Telefone: 0800 567 567
-* Telefone: 011 234 4837
-* E-mail: info@anxiety.org.za
-* [Facebook](https://www.facebook.com/TheSADAG)
-* [Twitter](http://twitter.com/TheSADAG)
+## Suécia
+##### Mind 
+* Site: https://mind.se
+* Telefone: 08–34 70 65
+* Telefone: Org.nr. 802002-7291
+* Telefone: Swish: 9008533
+* Telefone: PG: 90 08 53-3
+* Telefone: BG: 900-8533
+* E-mail: info@mind.se
+* [Facebook](https://www.facebook.com/mindsweden)
+* [Twitter](https://twitter.com/MindSverige)
+* [Instagram](https://www.instagram.com/mindsverige)
+* [Youtube](https://www.youtube.com/channel/UC4j2X8itUXDWDmYe-v4NCew)
+* [Linkedin](https://www.linkedin.com/company/mind-sweden-/)
+___
+## Suíça
+##### La Main Tendue – Die Dargebotene Hand – Telefono Amico 
+* Site: https://www.143.ch
+* Telefone: 143
+* Telefone: 031 301 91 91
+* E-mail: verband@143.ch
+* [Facebook](https://www.facebook.com/DargeboteneHandTelefonhilfe143)
+___
+## Taiwan
+##### Taiwan Suicide Prevention Center 
+* Site: https://www.143.ch
+* Telefone: 0800 788 995
+* E-mail: tspc-fb@tsos.org.tw
+
+##### Kaohsiung Life Line 
+* Site: http://www.life1995.org.tw
+* Telefone: 1995
 
 ___
 > Se tiver problemas [abra uma nova issue aqui](https://github.com/lucasferreiralimax/save-our-soul/issues/new)

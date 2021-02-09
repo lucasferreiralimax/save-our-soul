@@ -13,7 +13,8 @@ Do you are not alone, keep calm, call or send a message.
 
 function contactItem(contact) {
   let removeSVG = /(<svg)([^<]*|[^>]*)(.*<\/svg>)/
-  let contactContext = `<hr>\n## ${contact.title.replace(removeSVG, "")}`
+  let contactContext = `\n<hr>\n\n`
+  contactContext += `## ${contact.title.replace(removeSVG, "")}`
 
   for(let item of contact.info) {
     let info = `\n##### ${item.name} \n`
@@ -28,11 +29,11 @@ function contactItem(contact) {
     if(item.skype) info += `* Skype: <a href='skype:${item.skype}?call'>${item.skype}</a>\n`
     if(item.email) info += `* E-mail: ${item.email}\n`
     if(item.networking) {
-      info += '\n'
       for(let social of item.networking) {
-        info += `<a href="${social.url}" target="_blank"><img alt="${social.type} - ${social.url}" width="50px" src="assets/icons/${social.type}-logo.svg" /></a> `
+        info += `\n<a href="${social.url}" target="_blank"><img alt="${social.type} - ${social.url}" width="50px" src="assets/icons/${social.type}-logo.svg" /></a>`
       }
-    }        
+      info += '\n'
+    }
     contactContext += info
   }
 

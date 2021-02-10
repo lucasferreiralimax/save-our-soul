@@ -31,6 +31,19 @@ Do you are not alone, keep calm, call or send a message.
 
 <hr>
 
+## Argentina
+##### Centro de Asistencia al Suicida 
+* Site: https://www.asistenciaalsuicida.org.ar
+* Telefone: 135
+* Telefone: +54 11 5275 1135
+* E-mail: casbuenosaires@hotmail.com
+
+<a href="https://www.facebook.com/AsistenciaAlSuicida.ar" target="_blank"><img alt="facebook - https://www.facebook.com/AsistenciaAlSuicida.ar" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/asistenciaalsui" target="_blank"><img alt="twitter - https://twitter.com/asistenciaalsui" width="50px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/AsistenciaAlSuicida.ar" target="_blank"><img alt="instagram - https://www.instagram.com/AsistenciaAlSuicida.ar" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+
+<hr>
+
 ## Alemanha
 ##### Telefonseelsorge 
 * Site: https://www.telefonseelsorge.de
@@ -101,6 +114,13 @@ Do you are not alone, keep calm, call or send a message.
 <a href="https://www.youtube.com/user/CVVdivulgacao" target="_blank"><img alt="youtube - https://www.youtube.com/user/CVVdivulgacao" width="50px" src="assets/icons/youtube-logo.svg" /></a>
 <a href="https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
 
+##### Voz de Apoio 
+* Site: http://www.vozdeapoio.pt
+* Telefone: (+351) 225 50 60 70
+* E-mail: sos@vozdeapoio.pt
+
+<a href="https://www.facebook.com/VozDeApoio" target="_blank"><img alt="facebook - https://www.facebook.com/VozDeApoio" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+
 <hr>
 
 ## Bélgica
@@ -111,6 +131,15 @@ Do you are not alone, keep calm, call or send a message.
 
 <a href="https://twitter.com/Zelfmoord1813" target="_blank"><img alt="twitter - https://twitter.com/Zelfmoord1813" width="50px" src="assets/icons/twitter-logo.svg" /></a>
 <a href="https://www.youtube.com/user/Zelfmoord1813" target="_blank"><img alt="youtube - https://www.youtube.com/user/Zelfmoord1813" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+
+##### Community Help Service (CHS) 
+* Site: https://www.chsbelgium.org
+* Telefone: 02 648 40 14
+* Telefone: +32 2 647 67 80
+* E-mail: office@chsbelgium.org
+
+<a href="https://www.facebook.com/CHSBelgium" target="_blank"><img alt="facebook - https://www.facebook.com/CHSBelgium" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.twitter.com/CHSBelgium" target="_blank"><img alt="twitter - https://www.twitter.com/CHSBelgium" width="50px" src="assets/icons/twitter-logo.svg" /></a>
 
 <hr>
 

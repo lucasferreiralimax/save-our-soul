@@ -30,6 +30,22 @@ var contacts = [
     ]
   },
   {
+    title: 'Argentina',
+    info: [
+      {
+        name: 'Centro de Asistencia al Suicida',
+        url: 'https://www.asistenciaalsuicida.org.ar',
+        phone: ['135', '+54 11 5275 1135'],
+        email: 'casbuenosaires@hotmail.com',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/AsistenciaAlSuicida.ar' },
+          { type: 'twitter',  url: 'https://twitter.com/asistenciaalsui' },
+          { type: 'instagram',  url: 'https://www.instagram.com/AsistenciaAlSuicida.ar' }
+        ]
+      },
+    ]
+  },
+  {
     title: 'Alemanha',
     info: [
       {
@@ -116,6 +132,15 @@ var contacts = [
           { type: 'youtube',   url: 'https://www.youtube.com/user/CVVdivulgacao' },
           { type: 'linkedin',  url: 'https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida' }
         ]
+      },
+      {
+        name: 'Voz de Apoio',
+        url: 'http://www.vozdeapoio.pt',
+        phone: '(+351) 225 50 60 70',
+        email: 'sos@vozdeapoio.pt',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/VozDeApoio' }
+        ]
       }
     ]
   },
@@ -130,6 +155,16 @@ var contacts = [
         networking: [
           { type: 'twitter', url: 'https://twitter.com/Zelfmoord1813' },
           { type: 'youtube', url: 'https://www.youtube.com/user/Zelfmoord1813' }
+        ]
+      },
+      {
+        name: 'Community Help Service (CHS)',
+        url: 'https://www.chsbelgium.org',
+        phone: ['02 648 40 14', '+32 2 647 67 80'],
+        email: 'office@chsbelgium.org',
+        networking: [
+          { type: 'facebook', url: 'https://www.facebook.com/CHSBelgium' },
+          { type: 'twitter', url: 'https://www.twitter.com/CHSBelgium' }
         ]
       }
     ]

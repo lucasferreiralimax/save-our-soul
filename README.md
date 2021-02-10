@@ -13,7 +13,7 @@ Do you are not alone, keep calm, call or send a message.
 * Site: http://www.befrienders.org
 * E-mail: info@befrienders.org
 
-<a href="https://www.facebook.com/befriendersworldwide" target="_blank"><img alt="facebook - https://www.facebook.com/befriendersworldwide" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/befriendersworldwide" target="_blank"><img alt="facebook - https://www.facebook.com/befriendersworldwide" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 <hr>
 
@@ -26,8 +26,8 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 011 234 4837
 * E-mail: info@anxiety.org.za
 
-<a href="https://www.facebook.com/TheSADAG" target="_blank"><img alt="facebook - https://www.facebook.com/TheSADAG" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="http://twitter.com/TheSADAG" target="_blank"><img alt="twitter - http://twitter.com/TheSADAG" width="50px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.facebook.com/TheSADAG" target="_blank"><img alt="facebook - https://www.facebook.com/TheSADAG" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="http://twitter.com/TheSADAG" target="_blank"><img alt="twitter - http://twitter.com/TheSADAG" width="30px" src="assets/icons/twitter-logo.svg" /></a>
 
 <hr>
 
@@ -38,9 +38,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: +54 11 5275 1135
 * E-mail: casbuenosaires@hotmail.com
 
-<a href="https://www.facebook.com/AsistenciaAlSuicida.ar" target="_blank"><img alt="facebook - https://www.facebook.com/AsistenciaAlSuicida.ar" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/asistenciaalsui" target="_blank"><img alt="twitter - https://twitter.com/asistenciaalsui" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/AsistenciaAlSuicida.ar" target="_blank"><img alt="instagram - https://www.instagram.com/AsistenciaAlSuicida.ar" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.facebook.com/AsistenciaAlSuicida.ar" target="_blank"><img alt="facebook - https://www.facebook.com/AsistenciaAlSuicida.ar" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/asistenciaalsui" target="_blank"><img alt="twitter - https://twitter.com/asistenciaalsui" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/AsistenciaAlSuicida.ar" target="_blank"><img alt="instagram - https://www.instagram.com/AsistenciaAlSuicida.ar" width="30px" src="assets/icons/instagram-logo.svg" /></a>
 
 <hr>
 
@@ -52,8 +52,8 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 0800 111 0 222
 * E-mail: online.telefonseelsorge.de
 
-<a href="https://www.facebook.com/TelefonSeelsorge142" target="_blank"><img alt="facebook - https://www.facebook.com/TelefonSeelsorge142" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/telefonseelsorge142" target="_blank"><img alt="instagram - https://www.instagram.com/telefonseelsorge142" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.facebook.com/TelefonSeelsorge142" target="_blank"><img alt="facebook - https://www.facebook.com/TelefonSeelsorge142" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/telefonseelsorge142" target="_blank"><img alt="instagram - https://www.instagram.com/telefonseelsorge142" width="30px" src="assets/icons/instagram-logo.svg" /></a>
 
 ##### Nummer gegen Kummer 
 * Site: https://www.nummergegenkummer.de
@@ -61,9 +61,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 0800 111 0 333 (linha destinada a crianças)
 * E-mail: info@nummergegenkummer.de
 
-<a href="https://www.facebook.com/ngk.dachverband" target="_blank"><img alt="facebook - https://www.facebook.com/ngk.dachverband" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/nummergegenkummer_e.v" target="_blank"><img alt="instagram - https://www.instagram.com/nummergegenkummer_e.v" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UC5hkt5lRSo4bDvA_iGu6R3A" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC5hkt5lRSo4bDvA_iGu6R3A" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/ngk.dachverband" target="_blank"><img alt="facebook - https://www.facebook.com/ngk.dachverband" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/nummergegenkummer_e.v" target="_blank"><img alt="instagram - https://www.instagram.com/nummergegenkummer_e.v" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UC5hkt5lRSo4bDvA_iGu6R3A" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC5hkt5lRSo4bDvA_iGu6R3A" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -72,29 +72,29 @@ Do you are not alone, keep calm, call or send a message.
 * Site: http://www.lifeline.org.au
 * Telefone: 13 11 14
 
-<a href="https://www.facebook.com/LifelineAustralia" target="_blank"><img alt="facebook - https://www.facebook.com/LifelineAustralia" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/LifelineAust" target="_blank"><img alt="twitter - https://twitter.com/LifelineAust" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/lifelineaustralia" target="_blank"><img alt="instagram - https://www.instagram.com/lifelineaustralia" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw" width="50px" src="assets/icons/youtube-logo.svg" /></a>
-<a href="https://www.linkedin.com/company/lifeline-australia" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/lifeline-australia" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/LifelineAustralia" target="_blank"><img alt="facebook - https://www.facebook.com/LifelineAustralia" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/LifelineAust" target="_blank"><img alt="twitter - https://twitter.com/LifelineAust" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/lifelineaustralia" target="_blank"><img alt="instagram - https://www.instagram.com/lifelineaustralia" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw" width="30px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.linkedin.com/company/lifeline-australia" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/lifeline-australia" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 ##### Kids Helpline 
 * Site: http://www.kidshelp.com.au
 * Telefone: 1800 55 1800
 
-<a href="https://www.facebook.com/kidshelpline" target="_blank"><img alt="facebook - https://www.facebook.com/kidshelpline" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/kidshelplineau" target="_blank"><img alt="twitter - https://twitter.com/kidshelplineau" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/kidshelplineau" target="_blank"><img alt="instagram - https://www.instagram.com/kidshelplineau" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/user/kidshelpline101" target="_blank"><img alt="youtube - https://www.youtube.com/user/kidshelpline101" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/kidshelpline" target="_blank"><img alt="facebook - https://www.facebook.com/kidshelpline" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/kidshelplineau" target="_blank"><img alt="twitter - https://twitter.com/kidshelplineau" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/kidshelplineau" target="_blank"><img alt="instagram - https://www.instagram.com/kidshelplineau" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/user/kidshelpline101" target="_blank"><img alt="youtube - https://www.youtube.com/user/kidshelpline101" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Headspace 
 * Site: http://www.eheadspace.org.au
 * Telefone: 1800 650 890
 
-<a href="https://www.facebook.com/headspaceAustralia" target="_blank"><img alt="facebook - https://www.facebook.com/headspaceAustralia" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/headspace_aus" target="_blank"><img alt="twitter - https://twitter.com/headspace_aus" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://instagram.com/headspace_aus" target="_blank"><img alt="instagram - https://instagram.com/headspace_aus" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/user/headspaceAustralia" target="_blank"><img alt="youtube - https://www.youtube.com/user/headspaceAustralia" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/headspaceAustralia" target="_blank"><img alt="facebook - https://www.facebook.com/headspaceAustralia" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/headspace_aus" target="_blank"><img alt="twitter - https://twitter.com/headspace_aus" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://instagram.com/headspace_aus" target="_blank"><img alt="instagram - https://instagram.com/headspace_aus" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/user/headspaceAustralia" target="_blank"><img alt="youtube - https://www.youtube.com/user/headspaceAustralia" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -104,9 +104,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 147
 * E-mail: 147@rataufdraht.at
 
-<a href="https://www.facebook.com/147rataufdraht" target="_blank"><img alt="facebook - https://www.facebook.com/147rataufdraht" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/147rataufdraht" target="_blank"><img alt="instagram - https://www.instagram.com/147rataufdraht" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/user/Helpline147" target="_blank"><img alt="youtube - https://www.youtube.com/user/Helpline147" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/147rataufdraht" target="_blank"><img alt="facebook - https://www.facebook.com/147rataufdraht" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/147rataufdraht" target="_blank"><img alt="instagram - https://www.instagram.com/147rataufdraht" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/user/Helpline147" target="_blank"><img alt="youtube - https://www.youtube.com/user/Helpline147" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -116,18 +116,18 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 188
 * E-mail: atendimento@cvv.org.br
 
-<a href="https://www.facebook.com/cvvoficial" target="_blank"><img alt="facebook - https://www.facebook.com/cvvoficial" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/CVVoficial" target="_blank"><img alt="twitter - https://twitter.com/CVVoficial" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/cvvoficial" target="_blank"><img alt="instagram - https://www.instagram.com/cvvoficial" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/user/CVVdivulgacao" target="_blank"><img alt="youtube - https://www.youtube.com/user/CVVdivulgacao" width="50px" src="assets/icons/youtube-logo.svg" /></a>
-<a href="https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/cvvoficial" target="_blank"><img alt="facebook - https://www.facebook.com/cvvoficial" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/CVVoficial" target="_blank"><img alt="twitter - https://twitter.com/CVVoficial" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/cvvoficial" target="_blank"><img alt="instagram - https://www.instagram.com/cvvoficial" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/user/CVVdivulgacao" target="_blank"><img alt="youtube - https://www.youtube.com/user/CVVdivulgacao" width="30px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/cvv---centro-de-valoriza%C3%A7%C3%A3o-da-vida" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 ##### Voz de Apoio 
 * Site: http://www.vozdeapoio.pt
 * Telefone: (+351) 225 50 60 70
 * E-mail: sos@vozdeapoio.pt
 
-<a href="https://www.facebook.com/VozDeApoio" target="_blank"><img alt="facebook - https://www.facebook.com/VozDeApoio" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/VozDeApoio" target="_blank"><img alt="facebook - https://www.facebook.com/VozDeApoio" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 <hr>
 
@@ -137,8 +137,8 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 1813
 * E-mail: mail@zelfmoordlijn.be
 
-<a href="https://twitter.com/Zelfmoord1813" target="_blank"><img alt="twitter - https://twitter.com/Zelfmoord1813" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.youtube.com/user/Zelfmoord1813" target="_blank"><img alt="youtube - https://www.youtube.com/user/Zelfmoord1813" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://twitter.com/Zelfmoord1813" target="_blank"><img alt="twitter - https://twitter.com/Zelfmoord1813" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.youtube.com/user/Zelfmoord1813" target="_blank"><img alt="youtube - https://www.youtube.com/user/Zelfmoord1813" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Community Help Service (CHS) 
 * Site: https://www.chsbelgium.org
@@ -146,8 +146,8 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: +32 2 647 67 80
 * E-mail: office@chsbelgium.org
 
-<a href="https://www.facebook.com/CHSBelgium" target="_blank"><img alt="facebook - https://www.facebook.com/CHSBelgium" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.twitter.com/CHSBelgium" target="_blank"><img alt="twitter - https://www.twitter.com/CHSBelgium" width="50px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.facebook.com/CHSBelgium" target="_blank"><img alt="facebook - https://www.facebook.com/CHSBelgium" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.twitter.com/CHSBelgium" target="_blank"><img alt="twitter - https://www.twitter.com/CHSBelgium" width="30px" src="assets/icons/twitter-logo.svg" /></a>
 
 <hr>
 
@@ -160,9 +160,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: (613)702-4446
 * E-mail: casp@suicideprevention.ca
 
-<a href="https://www.facebook.com/CanadianAssociationforSuicidePrevention" target="_blank"><img alt="facebook - https://www.facebook.com/CanadianAssociationforSuicidePrevention" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/casp_ca" target="_blank"><img alt="twitter - https://twitter.com/casp_ca" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/casp.acps" target="_blank"><img alt="instagram - https://www.instagram.com/casp.acps" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.facebook.com/CanadianAssociationforSuicidePrevention" target="_blank"><img alt="facebook - https://www.facebook.com/CanadianAssociationforSuicidePrevention" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/casp_ca" target="_blank"><img alt="twitter - https://twitter.com/casp_ca" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/casp.acps" target="_blank"><img alt="instagram - https://www.instagram.com/casp.acps" width="30px" src="assets/icons/instagram-logo.svg" /></a>
 
 <hr>
 
@@ -173,7 +173,7 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: +82 2-2203-0053
 * E-mail: spc@spckorea.or.kr
 
-<a href="https://www.facebook.com/spckorea129" target="_blank"><img alt="facebook - https://www.facebook.com/spckorea129" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/spckorea129" target="_blank"><img alt="facebook - https://www.facebook.com/spckorea129" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 ##### HopeClick 
 * Site: http://www.hopeclick.or.kr
@@ -193,9 +193,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 70 201 201
 * E-mail: livslinien@livslinien.dk
 
-<a href="https://www.facebook.com/Livslinien" target="_blank"><img alt="facebook - https://www.facebook.com/Livslinien" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/livslinien" target="_blank"><img alt="instagram - https://www.instagram.com/livslinien" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.linkedin.com/company/livslinien" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/livslinien" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/Livslinien" target="_blank"><img alt="facebook - https://www.facebook.com/Livslinien" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/livslinien" target="_blank"><img alt="instagram - https://www.instagram.com/livslinien" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.linkedin.com/company/livslinien" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/livslinien" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 ##### Børne 
 * Site: https://bornetelefonen.dk
@@ -210,10 +210,10 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 902500002
 * E-mail: secretariageneral@telefonodelaesperanza.org
 
-<a href="https://www.facebook.com/telesperanza" target="_blank"><img alt="facebook - https://www.facebook.com/telesperanza" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/Tel_Esperanza" target="_blank"><img alt="twitter - https://twitter.com/Tel_Esperanza" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/tfdelaesperanza_717003717/?hl=es" target="_blank"><img alt="instagram - https://www.instagram.com/tfdelaesperanza_717003717/?hl=es" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/user/telefonoesperanza" target="_blank"><img alt="youtube - https://www.youtube.com/user/telefonoesperanza" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/telesperanza" target="_blank"><img alt="facebook - https://www.facebook.com/telesperanza" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/Tel_Esperanza" target="_blank"><img alt="twitter - https://twitter.com/Tel_Esperanza" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/tfdelaesperanza_717003717/?hl=es" target="_blank"><img alt="instagram - https://www.instagram.com/tfdelaesperanza_717003717/?hl=es" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/user/telefonoesperanza" target="_blank"><img alt="youtube - https://www.youtube.com/user/telefonoesperanza" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -223,9 +223,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 1 800 273 TALK (8255)
 * E-mail: jo@samaritans.org
 
-<a href="https://www.facebook.com/800273talk" target="_blank"><img alt="facebook - https://www.facebook.com/800273talk" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/800273TALK" target="_blank"><img alt="twitter - https://twitter.com/800273TALK" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.youtube.com/user/800273TALK" target="_blank"><img alt="youtube - https://www.youtube.com/user/800273TALK" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/800273talk" target="_blank"><img alt="facebook - https://www.facebook.com/800273talk" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/800273TALK" target="_blank"><img alt="twitter - https://twitter.com/800273TALK" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.youtube.com/user/800273TALK" target="_blank"><img alt="youtube - https://www.youtube.com/user/800273TALK" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Veterans/Military Crisis Line 
 * Site: https://www.veteranscrisisline.net
@@ -235,10 +235,10 @@ Do you are not alone, keep calm, call or send a message.
 * Site: https://www.veteranscrisisline.net
 * Telefone: 1-866-488-7386
 
-<a href="https://www.facebook.com/TheTrevorProject" target="_blank"><img alt="facebook - https://www.facebook.com/TheTrevorProject" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/trevorproject" target="_blank"><img alt="twitter - https://twitter.com/trevorproject" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/trevorproject" target="_blank"><img alt="instagram - https://www.instagram.com/trevorproject" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/thetrevorproject" target="_blank"><img alt="youtube - https://www.youtube.com/thetrevorproject" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/TheTrevorProject" target="_blank"><img alt="facebook - https://www.facebook.com/TheTrevorProject" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/trevorproject" target="_blank"><img alt="twitter - https://twitter.com/trevorproject" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/trevorproject" target="_blank"><img alt="instagram - https://www.instagram.com/trevorproject" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/thetrevorproject" target="_blank"><img alt="youtube - https://www.youtube.com/thetrevorproject" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -249,10 +249,10 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 09 2525 0111
 * E-mail: sos-keskus@mieli.fi
 
-<a href="https://www.facebook.com/mielenterveys" target="_blank"><img alt="facebook - https://www.facebook.com/mielenterveys" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/mielenterveys" target="_blank"><img alt="twitter - https://twitter.com/mielenterveys" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/mielenterveys" target="_blank"><img alt="instagram - https://www.instagram.com/mielenterveys" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/user/Mielenterveysseura" target="_blank"><img alt="youtube - https://www.youtube.com/user/Mielenterveysseura" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/mielenterveys" target="_blank"><img alt="facebook - https://www.facebook.com/mielenterveys" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/mielenterveys" target="_blank"><img alt="twitter - https://twitter.com/mielenterveys" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/mielenterveys" target="_blank"><img alt="instagram - https://www.instagram.com/mielenterveys" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/user/Mielenterveysseura" target="_blank"><img alt="youtube - https://www.youtube.com/user/Mielenterveysseura" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -265,8 +265,8 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 01 40 09 15 22
 * E-mail: administration@sos-amitie.com
 
-<a href="http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116" target="_blank"><img alt="facebook - http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="http://www.youtube.com/user/sosamitie" target="_blank"><img alt="youtube - http://www.youtube.com/user/sosamitie" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116" target="_blank"><img alt="facebook - http://www.facebook.com/pages/SOS-Amiti%C3%A9/121093521274116" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="http://www.youtube.com/user/sosamitie" target="_blank"><img alt="youtube - http://www.youtube.com/user/sosamitie" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -276,9 +276,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 210-3417160-2
 * E-mail: central@klimaka.org.gr
 
-<a href="https://www.facebook.com/klimakango" target="_blank"><img alt="facebook - https://www.facebook.com/klimakango" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/klimaka_ngo" target="_blank"><img alt="twitter - https://twitter.com/klimaka_ngo" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.youtube.com/user/klimakaMKO" target="_blank"><img alt="youtube - https://www.youtube.com/user/klimakaMKO" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/klimakango" target="_blank"><img alt="facebook - https://www.facebook.com/klimakango" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/klimaka_ngo" target="_blank"><img alt="twitter - https://twitter.com/klimaka_ngo" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.youtube.com/user/klimakaMKO" target="_blank"><img alt="youtube - https://www.youtube.com/user/klimakaMKO" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Suicide Help Greece 
 * Site: http://www.suicide-help.gr
@@ -293,11 +293,11 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 0900-113 0 113
 * E-mail: info@113.nl
 
-<a href="https://www.facebook.com/113Zelfmoordpreventie" target="_blank"><img alt="facebook - https://www.facebook.com/113Zelfmoordpreventie" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/113preventie" target="_blank"><img alt="twitter - https://twitter.com/113preventie" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/113zelfmoordpreventie" target="_blank"><img alt="instagram - https://www.instagram.com/113zelfmoordpreventie" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA" width="50px" src="assets/icons/youtube-logo.svg" /></a>
-<a href="https://www.linkedin.com/company/113zelfmoordpreventie" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/113zelfmoordpreventie" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/113Zelfmoordpreventie" target="_blank"><img alt="facebook - https://www.facebook.com/113Zelfmoordpreventie" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/113preventie" target="_blank"><img alt="twitter - https://twitter.com/113preventie" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/113zelfmoordpreventie" target="_blank"><img alt="instagram - https://www.instagram.com/113zelfmoordpreventie" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCrJhprcKwz3ZNmUgTa7GstA" width="30px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.linkedin.com/company/113zelfmoordpreventie" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/113zelfmoordpreventie" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 <hr>
 
@@ -307,7 +307,7 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 210-3417160-2
 * E-mail: soulbox@sbhk.org.hk
 
-<a href="https://www.facebook.com/HELP4SUICIDE" target="_blank"><img alt="facebook - https://www.facebook.com/HELP4SUICIDE" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/HELP4SUICIDE" target="_blank"><img alt="facebook - https://www.facebook.com/HELP4SUICIDE" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 ##### The Samaritan Befrienders Hong Kong 
 * Site: http://www.sbhk.org.hk
@@ -315,16 +315,16 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 2389 2223
 * E-mail: admin@sbhk.org.hk
 
-<a href="http://www.facebook.com/sbhk.org" target="_blank"><img alt="facebook - http://www.facebook.com/sbhk.org" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="http://www.youtube.com/user/helpforsuicide" target="_blank"><img alt="youtube - http://www.youtube.com/user/helpforsuicide" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="http://www.facebook.com/sbhk.org" target="_blank"><img alt="facebook - http://www.facebook.com/sbhk.org" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="http://www.youtube.com/user/helpforsuicide" target="_blank"><img alt="youtube - http://www.youtube.com/user/helpforsuicide" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### The Samaritans Hong Kong 
 * Site: https://samaritans.org.hk
 * Telefone: 2896 0000
 * E-mail: jo@samaritans.org.hk
 
-<a href="https://www.facebook.com/SamaritansHongKong/" target="_blank"><img alt="facebook - https://www.facebook.com/SamaritansHongKong/" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/samaritans_hk" target="_blank"><img alt="twitter - https://twitter.com/samaritans_hk" width="50px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.facebook.com/SamaritansHongKong/" target="_blank"><img alt="facebook - https://www.facebook.com/SamaritansHongKong/" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/samaritans_hk" target="_blank"><img alt="twitter - https://twitter.com/samaritans_hk" width="30px" src="assets/icons/twitter-logo.svg" /></a>
 
 <hr>
 
@@ -336,7 +336,7 @@ Do you are not alone, keep calm, call or send a message.
 * Skype: <a href='skype:lelkigondozas1?call'>lelkigondozas1</a>
 * E-mail: sos116123@gmail.com
 
-<a href="https://www.facebook.com/Magyar-Lelki-Els%C5%91seg%C3%A9ly-Telefonszolg%C3%A1latok-Sz%C3%B6vets%C3%A9ge-LESZ-148380928544430" target="_blank"><img alt="facebook - https://www.facebook.com/Magyar-Lelki-Els%C5%91seg%C3%A9ly-Telefonszolg%C3%A1latok-Sz%C3%B6vets%C3%A9ge-LESZ-148380928544430" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/Magyar-Lelki-Els%C5%91seg%C3%A9ly-Telefonszolg%C3%A1latok-Sz%C3%B6vets%C3%A9ge-LESZ-148380928544430" target="_blank"><img alt="facebook - https://www.facebook.com/Magyar-Lelki-Els%C5%91seg%C3%A9ly-Telefonszolg%C3%A1latok-Sz%C3%B6vets%C3%A9ge-LESZ-148380928544430" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 ##### Kek Vonal 
 * Telefone: 116-111
@@ -352,8 +352,8 @@ Do you are not alone, keep calm, call or send a message.
 * Skype: <a href='skype:lelkigondozas1?call'>lelkigondozas1</a>
 * E-mail: aasrahelpline@yahoo.com
 
-<a href="http://www.facebook.com/aasrasuicideprevention" target="_blank"><img alt="facebook - http://www.facebook.com/aasrasuicideprevention" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="http://www.twitter.com/aasradotinfo" target="_blank"><img alt="twitter - http://www.twitter.com/aasradotinfo" width="50px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="http://www.facebook.com/aasrasuicideprevention" target="_blank"><img alt="facebook - http://www.facebook.com/aasrasuicideprevention" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="http://www.twitter.com/aasradotinfo" target="_blank"><img alt="twitter - http://www.twitter.com/aasradotinfo" width="30px" src="assets/icons/twitter-logo.svg" /></a>
 
 <hr>
 
@@ -365,14 +365,14 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 076-8844400
 * E-mail: eran1201@eran.org.il
 
-<a href="https://www.facebook.com/eran.org.il" target="_blank"><img alt="facebook - https://www.facebook.com/eran.org.il" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/eran_1201" target="_blank"><img alt="instagram - https://www.instagram.com/eran_1201" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UCDDx1k4i3siQaejE1VB82ig" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCDDx1k4i3siQaejE1VB82ig" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/eran.org.il" target="_blank"><img alt="facebook - https://www.facebook.com/eran.org.il" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/eran_1201" target="_blank"><img alt="instagram - https://www.instagram.com/eran_1201" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UCDDx1k4i3siQaejE1VB82ig" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCDDx1k4i3siQaejE1VB82ig" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### SAHAR (rede de apoio emocional em hebreu) 
 * Site: http://www.sahar.org.il
 
-<a href="https://www.facebook.com/saharhelponline" target="_blank"><img alt="facebook - https://www.facebook.com/saharhelponline" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/saharhelponline" target="_blank"><img alt="facebook - https://www.facebook.com/saharhelponline" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 <hr>
 
@@ -382,11 +382,11 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 19696
 * E-mail: serviziosostenitori@azzurro.it
 
-<a href="https://www.facebook.com/TelefonoAzzurroOnlus" target="_blank"><img alt="facebook - https://www.facebook.com/TelefonoAzzurroOnlus" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/telefono_azzurro" target="_blank"><img alt="instagram - https://www.instagram.com/telefono_azzurro" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://twitter.com/telefonoazzurro" target="_blank"><img alt="twitter - https://twitter.com/telefonoazzurro" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/telefono_azzurro" target="_blank"><img alt="youtube - https://www.instagram.com/telefono_azzurro" width="50px" src="assets/icons/youtube-logo.svg" /></a>
-<a href="https://it.linkedin.com/company/s.o.s.---telefono-azzurro" target="_blank"><img alt="linkedin - https://it.linkedin.com/company/s.o.s.---telefono-azzurro" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/TelefonoAzzurroOnlus" target="_blank"><img alt="facebook - https://www.facebook.com/TelefonoAzzurroOnlus" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/telefono_azzurro" target="_blank"><img alt="instagram - https://www.instagram.com/telefono_azzurro" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://twitter.com/telefonoazzurro" target="_blank"><img alt="twitter - https://twitter.com/telefonoazzurro" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/telefono_azzurro" target="_blank"><img alt="youtube - https://www.instagram.com/telefono_azzurro" width="30px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://it.linkedin.com/company/s.o.s.---telefono-azzurro" target="_blank"><img alt="linkedin - https://it.linkedin.com/company/s.o.s.---telefono-azzurro" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 ##### Telefono Amico 
 * Site: http://www.sahar.org.il
@@ -394,10 +394,10 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 02 2327 2327
 * E-mail: info@telefonoamico.it
 
-<a href="https://www.facebook.com/telefonoamicoitalia" target="_blank"><img alt="facebook - https://www.facebook.com/telefonoamicoitalia" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/telefonoamicoit" target="_blank"><img alt="instagram - https://www.instagram.com/telefonoamicoit" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://twitter.com/telefonoamicoit" target="_blank"><img alt="twitter - https://twitter.com/telefonoamicoit" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UC_wioI1TK69kSKRQePpXCcw" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC_wioI1TK69kSKRQePpXCcw" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/telefonoamicoitalia" target="_blank"><img alt="facebook - https://www.facebook.com/telefonoamicoitalia" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/telefonoamicoit" target="_blank"><img alt="instagram - https://www.instagram.com/telefonoamicoit" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://twitter.com/telefonoamicoit" target="_blank"><img alt="twitter - https://twitter.com/telefonoamicoit" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UC_wioI1TK69kSKRQePpXCcw" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC_wioI1TK69kSKRQePpXCcw" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -410,8 +410,8 @@ Do you are not alone, keep calm, call or send a message.
 * Skype: <a href='skype:skalbes?call'>skalbes</a>
 * E-mail: skalbes@skalbes.lv
 
-<a href="https://www.facebook.com/skalbes" target="_blank"><img alt="facebook - https://www.facebook.com/skalbes" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/skalbes" target="_blank"><img alt="twitter - https://twitter.com/skalbes" width="50px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.facebook.com/skalbes" target="_blank"><img alt="facebook - https://www.facebook.com/skalbes" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/skalbes" target="_blank"><img alt="twitter - https://twitter.com/skalbes" width="30px" src="assets/icons/twitter-logo.svg" /></a>
 
 <hr>
 
@@ -424,7 +424,7 @@ Do you are not alone, keep calm, call or send a message.
 * Site: https://www.vaikulinija.lt
 * Telefone: 116 111
 
-<a href="http://www.facebook.com/vaikulinija" target="_blank"><img alt="facebook - http://www.facebook.com/vaikulinija" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="http://www.facebook.com/vaikulinija" target="_blank"><img alt="facebook - http://www.facebook.com/vaikulinija" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 ##### Jaunimo linija (linha destinada a jovens) 
 * Site: https://www.jaunimolinija.lt
@@ -441,8 +441,8 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 8 800 66366
 * E-mail: pagalba@moteriai.lt
 
-<a href="https://www.facebook.com/nedelsk" target="_blank"><img alt="facebook - https://www.facebook.com/nedelsk" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/ksppc.nedelsk" target="_blank"><img alt="instagram - https://www.instagram.com/ksppc.nedelsk" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.facebook.com/nedelsk" target="_blank"><img alt="facebook - https://www.facebook.com/nedelsk" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/ksppc.nedelsk" target="_blank"><img alt="instagram - https://www.instagram.com/ksppc.nedelsk" width="30px" src="assets/icons/instagram-logo.svg" /></a>
 
 ##### Linija Doverija (linha destinada a falantes de russo) 
 * Telefone: 8 800 77277
@@ -455,15 +455,15 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 454545
 * E-mail: info@sosdetresse.lu
 
-<a href="https://www.facebook.com/454545.lu" target="_blank"><img alt="facebook - https://www.facebook.com/454545.lu" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/454545.lu" target="_blank"><img alt="facebook - https://www.facebook.com/454545.lu" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 ##### Kanner-Jugendtelefon 
 * Site: http://www.kjt.lu
 * Telefone: 116 111
 
-<a href="https://de-de.facebook.com/kannerjugendtelefon" target="_blank"><img alt="facebook - https://de-de.facebook.com/kannerjugendtelefon" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/kajutel" target="_blank"><img alt="twitter - https://twitter.com/kajutel" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UC7LEzAoxc7pHXX5NmSLVgsQ" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC7LEzAoxc7pHXX5NmSLVgsQ" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://de-de.facebook.com/kannerjugendtelefon" target="_blank"><img alt="facebook - https://de-de.facebook.com/kannerjugendtelefon" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/kajutel" target="_blank"><img alt="twitter - https://twitter.com/kajutel" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UC7LEzAoxc7pHXX5NmSLVgsQ" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC7LEzAoxc7pHXX5NmSLVgsQ" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -473,11 +473,11 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 55 5533-5533
 * E-mail: contacto@consejociudadanomx.org
 
-<a href="https://www.facebook.com/ConsejoCiudadanoMx" target="_blank"><img alt="facebook - https://www.facebook.com/ConsejoCiudadanoMx" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/elconsejomx" target="_blank"><img alt="twitter - https://twitter.com/elconsejomx" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/consejociudadanomx" target="_blank"><img alt="instagram - https://www.instagram.com/consejociudadanomx" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda" target="_blank"><img alt="whatsapp - https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda" width="50px" src="assets/icons/whatsapp-logo.svg" /></a>
-<a href="https://www.youtube.com/user/consejociudadano" target="_blank"><img alt="youtube - https://www.youtube.com/user/consejociudadano" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/ConsejoCiudadanoMx" target="_blank"><img alt="facebook - https://www.facebook.com/ConsejoCiudadanoMx" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/elconsejomx" target="_blank"><img alt="twitter - https://twitter.com/elconsejomx" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/consejociudadanomx" target="_blank"><img alt="instagram - https://www.instagram.com/consejociudadanomx" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda" target="_blank"><img alt="whatsapp - https://api.whatsapp.com/send?phone=525555335533&text=Hola,%20Quiero%20una%20ayuda" width="30px" src="assets/icons/whatsapp-logo.svg" /></a>
+<a href="https://www.youtube.com/user/consejociudadano" target="_blank"><img alt="youtube - https://www.youtube.com/user/consejociudadano" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Instituto Hispanoamericano de Suicidologia, A.C 
 * Telefone: +5255 46313300
@@ -493,7 +493,7 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: +47 22 40 00 40
 * E-mail: post@kirkens-sos.no
 
-<a href="https://www.facebook.com/kirkensSOSNorge" target="_blank"><img alt="facebook - https://www.facebook.com/kirkensSOSNorge" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/kirkensSOSNorge" target="_blank"><img alt="facebook - https://www.facebook.com/kirkensSOSNorge" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 <hr>
 
@@ -502,24 +502,24 @@ Do you are not alone, keep calm, call or send a message.
 * Site: http://www.depression.org.nz
 * Telefone: 0800 111 757
 
-<a href="https://www.facebook.com/SmallStepsNZ" target="_blank"><img alt="facebook - https://www.facebook.com/SmallStepsNZ" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/SmallStepsNZ" target="_blank"><img alt="facebook - https://www.facebook.com/SmallStepsNZ" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 ##### The Lowdown 
 * Site: http://www.thelowdown.co.nz
 * Telefone: 0800 111 757
 * E-mail: team@thelowdown.co.nz
 
-<a href="https://www.youtube.com/channel/UCLp9zlalIVfqJ8FPbS8k8Ww" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCLp9zlalIVfqJ8FPbS8k8Ww" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UCLp9zlalIVfqJ8FPbS8k8Ww" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCLp9zlalIVfqJ8FPbS8k8Ww" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Youthline 
 * Site: https://www.youthline.co.nz
 * Telefone: 0800 376 633
 * E-mail: talk@youthline.co.nz
 
-<a href="https://www.facebook.com/Youthline.Changing.Lives" target="_blank"><img alt="facebook - https://www.facebook.com/Youthline.Changing.Lives" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/youthline" target="_blank"><img alt="twitter - https://twitter.com/youthline" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/youthlinenz" target="_blank"><img alt="instagram - https://www.instagram.com/youthlinenz" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/Youthline.Changing.Lives" target="_blank"><img alt="facebook - https://www.facebook.com/Youthline.Changing.Lives" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/youthline" target="_blank"><img alt="twitter - https://twitter.com/youthline" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/youthlinenz" target="_blank"><img alt="instagram - https://www.instagram.com/youthlinenz" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCneWcUJwZEjhQIJKSsTVqAg" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -528,7 +528,7 @@ Do you are not alone, keep calm, call or send a message.
 * Site: https://116111.pl
 * Telefone: 116 111
 
-<a href="http://instagram.com/116111.pl" target="_blank"><img alt="instagram - http://instagram.com/116111.pl" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="http://instagram.com/116111.pl" target="_blank"><img alt="instagram - http://instagram.com/116111.pl" width="30px" src="assets/icons/instagram-logo.svg" /></a>
 
 <hr>
 
@@ -538,11 +538,11 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 116 123
 * E-mail: jo@samaritans.org
 
-<a href="https://www.facebook.com/samaritanscharity" target="_blank"><img alt="facebook - https://www.facebook.com/samaritanscharity" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/samaritans" target="_blank"><img alt="twitter - https://twitter.com/samaritans" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/samaritanscharity" target="_blank"><img alt="instagram - https://www.instagram.com/samaritanscharity" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/user/samaritans" target="_blank"><img alt="youtube - https://www.youtube.com/user/samaritans" width="50px" src="assets/icons/youtube-logo.svg" /></a>
-<a href="https://www.linkedin.com/company/samaritans" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/samaritans" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/samaritanscharity" target="_blank"><img alt="facebook - https://www.facebook.com/samaritanscharity" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/samaritans" target="_blank"><img alt="twitter - https://twitter.com/samaritans" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/samaritanscharity" target="_blank"><img alt="instagram - https://www.instagram.com/samaritanscharity" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/user/samaritans" target="_blank"><img alt="youtube - https://www.youtube.com/user/samaritans" width="30px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.linkedin.com/company/samaritans" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/samaritans" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 <hr>
 
@@ -552,16 +552,16 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 116 111
 * E-mail: pomoc@linkabezpeci.cz
 
-<a href="https://cs-cz.facebook.com/Linkabezpeci" target="_blank"><img alt="facebook - https://cs-cz.facebook.com/Linkabezpeci" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/Linka_bezpeci" target="_blank"><img alt="twitter - https://twitter.com/Linka_bezpeci" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.youtube.com/user/SdruzeniLinkaBezpeci" target="_blank"><img alt="youtube - https://www.youtube.com/user/SdruzeniLinkaBezpeci" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://cs-cz.facebook.com/Linkabezpeci" target="_blank"><img alt="facebook - https://cs-cz.facebook.com/Linkabezpeci" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/Linka_bezpeci" target="_blank"><img alt="twitter - https://twitter.com/Linka_bezpeci" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.youtube.com/user/SdruzeniLinkaBezpeci" target="_blank"><img alt="youtube - https://www.youtube.com/user/SdruzeniLinkaBezpeci" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Pražská linka důvěry 
 * Site: https://www.csspraha.cz
 * Telefone: 222 580 697
 * E-mail: casp@suicideprevention.ca
 
-<a href="https://www.facebook.com/csspraha" target="_blank"><img alt="facebook - https://www.facebook.com/csspraha" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/csspraha" target="_blank"><img alt="facebook - https://www.facebook.com/csspraha" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 ##### Linka důvěry Ostrava 
 * Site: https://www.mnof.cz
@@ -570,9 +570,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 737 267 939
 * E-mail: mnof@mnof.cz
 
-<a href="https://www.facebook.com/nemocnicefifejdy" target="_blank"><img alt="facebook - https://www.facebook.com/nemocnicefifejdy" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/porodnicefifejdy" target="_blank"><img alt="instagram - https://www.instagram.com/porodnicefifejdy" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/nemocnicefifejdy" target="_blank"><img alt="facebook - https://www.facebook.com/nemocnicefifejdy" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/porodnicefifejdy" target="_blank"><img alt="instagram - https://www.instagram.com/porodnicefifejdy" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UCHMGT2IYyrvkCrYeWwY3ibA" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 ##### Linka duševní tísně Most 
 * Site: http://www.mostknadeji.eu
@@ -588,9 +588,9 @@ Do you are not alone, keep calm, call or send a message.
 * Skype: <a href='skype:ld_dkc?call'>ld_dkc</a>
 * E-mail: problem@ditekrize.cz
 
-<a href="https://www.facebook.com/DKCcz" target="_blank"><img alt="facebook - https://www.facebook.com/DKCcz" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/detske_krizove_centrum" target="_blank"><img alt="instagram - https://www.instagram.com/detske_krizove_centrum" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb" target="_blank"><img alt="linkedin - https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/DKCcz" target="_blank"><img alt="facebook - https://www.facebook.com/DKCcz" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/detske_krizove_centrum" target="_blank"><img alt="instagram - https://www.instagram.com/detske_krizove_centrum" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb" target="_blank"><img alt="linkedin - https://www.linkedin.com/in/dkc-d%C4%9Btsk%C3%A9-krizov%C3%A9-centrum-64b7b6bb" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 <hr>
 
@@ -600,9 +600,9 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 0800 300 303
 * E-mail: vanja@centarsrce.org
 
-<a href="https://www.facebook.com/CentarSrce" target="_blank"><img alt="facebook - https://www.facebook.com/CentarSrce" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/CentarSrce" target="_blank"><img alt="twitter - https://twitter.com/CentarSrce" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.youtube.com/user/centarsrce" target="_blank"><img alt="youtube - https://www.youtube.com/user/centarsrce" width="50px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.facebook.com/CentarSrce" target="_blank"><img alt="facebook - https://www.facebook.com/CentarSrce" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/CentarSrce" target="_blank"><img alt="twitter - https://twitter.com/CentarSrce" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.youtube.com/user/centarsrce" target="_blank"><img alt="youtube - https://www.youtube.com/user/centarsrce" width="30px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -612,10 +612,10 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 1800 221 4444
 * E-mail: pat@sos.org.sg
 
-<a href="https://www.facebook.com/SamaritansOfSingapore" target="_blank"><img alt="facebook - https://www.facebook.com/SamaritansOfSingapore" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://www.instagram.com/samaritansofsingapore" target="_blank"><img alt="instagram - https://www.instagram.com/samaritansofsingapore" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://twitter.com/samaritansofsg" target="_blank"><img alt="twitter - https://twitter.com/samaritansofsg" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://sg.linkedin.com/company/sos-samaritans-of-singapore" target="_blank"><img alt="linkedin - https://sg.linkedin.com/company/sos-samaritans-of-singapore" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/SamaritansOfSingapore" target="_blank"><img alt="facebook - https://www.facebook.com/SamaritansOfSingapore" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/samaritansofsingapore" target="_blank"><img alt="instagram - https://www.instagram.com/samaritansofsingapore" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://twitter.com/samaritansofsg" target="_blank"><img alt="twitter - https://twitter.com/samaritansofsg" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://sg.linkedin.com/company/sos-samaritans-of-singapore" target="_blank"><img alt="linkedin - https://sg.linkedin.com/company/sos-samaritans-of-singapore" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 <hr>
 
@@ -629,11 +629,11 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: BG: 900-8533
 * E-mail: info@mind.se
 
-<a href="https://www.facebook.com/mindsweden" target="_blank"><img alt="facebook - https://www.facebook.com/mindsweden" width="50px" src="assets/icons/facebook-logo.svg" /></a>
-<a href="https://twitter.com/MindSverige" target="_blank"><img alt="twitter - https://twitter.com/MindSverige" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/mindsverige" target="_blank"><img alt="instagram - https://www.instagram.com/mindsverige" width="50px" src="assets/icons/instagram-logo.svg" /></a>
-<a href="https://www.youtube.com/channel/UC4j2X8itUXDWDmYe-v4NCew" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC4j2X8itUXDWDmYe-v4NCew" width="50px" src="assets/icons/youtube-logo.svg" /></a>
-<a href="https://www.linkedin.com/company/mind-sweden-/" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/mind-sweden-/" width="50px" src="assets/icons/linkedin-logo.svg" /></a>
+<a href="https://www.facebook.com/mindsweden" target="_blank"><img alt="facebook - https://www.facebook.com/mindsweden" width="30px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://twitter.com/MindSverige" target="_blank"><img alt="twitter - https://twitter.com/MindSverige" width="30px" src="assets/icons/twitter-logo.svg" /></a>
+<a href="https://www.instagram.com/mindsverige" target="_blank"><img alt="instagram - https://www.instagram.com/mindsverige" width="30px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UC4j2X8itUXDWDmYe-v4NCew" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC4j2X8itUXDWDmYe-v4NCew" width="30px" src="assets/icons/youtube-logo.svg" /></a>
+<a href="https://www.linkedin.com/company/mind-sweden-/" target="_blank"><img alt="linkedin - https://www.linkedin.com/company/mind-sweden-/" width="30px" src="assets/icons/linkedin-logo.svg" /></a>
 
 <hr>
 
@@ -644,7 +644,7 @@ Do you are not alone, keep calm, call or send a message.
 * Telefone: 031 301 91 91
 * E-mail: verband@143.ch
 
-<a href="https://www.facebook.com/DargeboteneHandTelefonhilfe143" target="_blank"><img alt="facebook - https://www.facebook.com/DargeboteneHandTelefonhilfe143" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.facebook.com/DargeboteneHandTelefonhilfe143" target="_blank"><img alt="facebook - https://www.facebook.com/DargeboteneHandTelefonhilfe143" width="30px" src="assets/icons/facebook-logo.svg" /></a>
 
 <hr>
 

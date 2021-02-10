@@ -30,7 +30,7 @@ function contactItem(contact) {
     if(item.email) info += `* E-mail: ${item.email}\n`
     if(item.networking) {
       for(let social of item.networking) {
-        info += `\n<a href="${social.url}" target="_blank"><img alt="${social.type} - ${social.url}" width="50px" src="assets/icons/${social.type}-logo.svg" /></a>`
+        info += `\n<a href="${social.url}" target="_blank"><img alt="${social.type} - ${social.url}" width="30px" src="assets/icons/${social.type}-logo.svg" /></a>`
       }
       info += '\n'
     }

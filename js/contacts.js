@@ -38,9 +38,9 @@ var contacts = [
         phone: ['135', '+54 11 5275 1135'],
         email: 'casbuenosaires@hotmail.com',
         networking: [
-          { type: 'facebook', url: 'https://www.facebook.com/AsistenciaAlSuicida.ar' },
-          { type: 'twitter',  url: 'https://twitter.com/asistenciaalsui' },
-          { type: 'instagram',  url: 'https://www.instagram.com/AsistenciaAlSuicida.ar' }
+          { type: 'facebook',  url: 'https://www.facebook.com/AsistenciaAlSuicida.ar' },
+          { type: 'twitter',   url: 'https://twitter.com/asistenciaalsui' },
+          { type: 'instagram', url: 'https://www.instagram.com/AsistenciaAlSuicida.ar' }
         ]
       },
     ]
@@ -51,14 +51,23 @@ var contacts = [
       {
         name: 'Telefonseelsorge',
         url: 'https://www.telefonseelsorge.de',
-        phone: ['0800 111 0 111', '0800 111 0 222'],
-        email: 'online.telefonseelsorge.de'
+        phone: ['142', '0800 111 0 111', '0800 111 0 222'],
+        email: 'online.telefonseelsorge.de',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/TelefonSeelsorge142' },
+          { type: 'instagram', url: 'https://www.instagram.com/telefonseelsorge142' }
+        ]
       },
       {
         name: 'Nummer gegen Kummer',
         url: 'https://www.nummergegenkummer.de',
         phone: ['0800 111 0 550 (linha destinada a adultos)', '0800 111 0 333 (linha destinada a crianças)'],
-        email: 'info@nummergegenkummer.de'
+        email: 'info@nummergegenkummer.de',
+        networking: [
+          { type: 'facebook',  url: 'https://www.facebook.com/ngk.dachverband' },
+          { type: 'instagram', url: 'https://www.instagram.com/nummergegenkummer_e.v' },
+          { type: 'youtube',   url: 'https://www.youtube.com/channel/UC5hkt5lRSo4bDvA_iGu6R3A' }
+        ]
       }
     ]
   },
@@ -184,7 +193,7 @@ var contacts = [
         networking: [
           { type: 'facebook',  url: 'https://www.facebook.com/CanadianAssociationforSuicidePrevention' },
           { type: 'twitter',   url: 'https://twitter.com/casp_ca' },
-          { type: 'instagram', url: 'https://www.instagram.com/canadianassociationsuicideprev' }
+          { type: 'instagram', url: 'https://www.instagram.com/casp.acps' }
         ]
       }
     ]
@@ -223,6 +232,7 @@ var contacts = [
         name: 'Livslinien',
         url: 'https://www.livslinien.dk',
         phone: '70 201 201',
+        email: 'livslinien@livslinien.dk',
         networking: [
           { type: 'facebook',  url: 'https://www.facebook.com/Livslinien' },          
           { type: 'instagram', url: 'https://www.instagram.com/livslinien' },

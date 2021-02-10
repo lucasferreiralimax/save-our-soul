@@ -47,15 +47,23 @@ Do you are not alone, keep calm, call or send a message.
 ## Alemanha
 ##### Telefonseelsorge 
 * Site: https://www.telefonseelsorge.de
+* Telefone: 142
 * Telefone: 0800 111 0 111
 * Telefone: 0800 111 0 222
 * E-mail: online.telefonseelsorge.de
+
+<a href="https://www.facebook.com/TelefonSeelsorge142" target="_blank"><img alt="facebook - https://www.facebook.com/TelefonSeelsorge142" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/telefonseelsorge142" target="_blank"><img alt="instagram - https://www.instagram.com/telefonseelsorge142" width="50px" src="assets/icons/instagram-logo.svg" /></a>
 
 ##### Nummer gegen Kummer 
 * Site: https://www.nummergegenkummer.de
 * Telefone: 0800 111 0 550 (linha destinada a adultos)
 * Telefone: 0800 111 0 333 (linha destinada a crianças)
 * E-mail: info@nummergegenkummer.de
+
+<a href="https://www.facebook.com/ngk.dachverband" target="_blank"><img alt="facebook - https://www.facebook.com/ngk.dachverband" width="50px" src="assets/icons/facebook-logo.svg" /></a>
+<a href="https://www.instagram.com/nummergegenkummer_e.v" target="_blank"><img alt="instagram - https://www.instagram.com/nummergegenkummer_e.v" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.youtube.com/channel/UC5hkt5lRSo4bDvA_iGu6R3A" target="_blank"><img alt="youtube - https://www.youtube.com/channel/UC5hkt5lRSo4bDvA_iGu6R3A" width="50px" src="assets/icons/youtube-logo.svg" /></a>
 
 <hr>
 
@@ -154,7 +162,7 @@ Do you are not alone, keep calm, call or send a message.
 
 <a href="https://www.facebook.com/CanadianAssociationforSuicidePrevention" target="_blank"><img alt="facebook - https://www.facebook.com/CanadianAssociationforSuicidePrevention" width="50px" src="assets/icons/facebook-logo.svg" /></a>
 <a href="https://twitter.com/casp_ca" target="_blank"><img alt="twitter - https://twitter.com/casp_ca" width="50px" src="assets/icons/twitter-logo.svg" /></a>
-<a href="https://www.instagram.com/canadianassociationsuicideprev" target="_blank"><img alt="instagram - https://www.instagram.com/canadianassociationsuicideprev" width="50px" src="assets/icons/instagram-logo.svg" /></a>
+<a href="https://www.instagram.com/casp.acps" target="_blank"><img alt="instagram - https://www.instagram.com/casp.acps" width="50px" src="assets/icons/instagram-logo.svg" /></a>
 
 <hr>
 
@@ -183,6 +191,7 @@ Do you are not alone, keep calm, call or send a message.
 ##### Livslinien 
 * Site: https://www.livslinien.dk
 * Telefone: 70 201 201
+* E-mail: livslinien@livslinien.dk
 
 <a href="https://www.facebook.com/Livslinien" target="_blank"><img alt="facebook - https://www.facebook.com/Livslinien" width="50px" src="assets/icons/facebook-logo.svg" /></a>
 <a href="https://www.instagram.com/livslinien" target="_blank"><img alt="instagram - https://www.instagram.com/livslinien" width="50px" src="assets/icons/instagram-logo.svg" /></a>

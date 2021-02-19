@@ -1,10 +1,11 @@
 let keep_again = true;
 const messages = [
-  'Tenha calma, tudo bem? Precisamos de você vivo! \nConverse com algum contato conforme sua urgência \nHoje pode está difícil mas amanhã, amanhã é um novo dia.',
-  'Não se precipite, podemos resolver qualquer problema trabalhando com a paciência. \nSe precisar entre em contato com quem achar melhor.',
-  'Posso não te conhecer ainda, mas se você precisar de ajuda ficarei grato em te ajudar @lucasferreiralimax',
-  'Você não esta sozinho, tenha calma, conforme sua urgência busque compartilhar oque precisa para esse contatos.',
+  'Tenha calma, tudo bem? Precisamos de você vivo! <br>Converse com algum contato conforme sua urgência <br>Hoje pode está difícil mas amanhã, amanhã é um novo dia.',
+  'Não se precipite, podemos resolver qualquer problema trabalhando com a paciência. <br>Se precisar entre em contato com quem achar melhor.',
+  'Posso não te conhecer ainda, mas se você precisar de ajuda ficarei grato em te ajudar <br>@lucasferreiralimax',
+  'Você não está sozinho, tenha calma, conforme sua urgência busque compartilhar o que precisa para esses contatos listados aqui.',
   'Compartilhando informação podemos melhorar o Mundo de cada pessoa, se estiver passando por alguma dificuldade entre em contato.',
+  'Nesse Mundo viemos para aprender a evoluir nossa alma, tenha calma, a vida pode parecer difícil mas não é nada impossível para que possamos melhorar.'
 ]
 
 function getRandomIntInclusive(min, max) {

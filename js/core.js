@@ -18,12 +18,35 @@ function keepCalm() {
     let lucky = getRandomIntInclusive(0,4)
     keep_again = false
 
-    alert(messages[lucky])
+    showMessage(messages[lucky])
     setTimeout(function(){ keep_again = true }, 5000);
   }
 }
 
 document.addEventListener('mouseleave', keepCalm)
+
+function showMessage(message) {
+  let last_message = document.querySelector('.message')
+
+  if(last_message) {
+    last_message.remove()
+    document.querySelector('.message-overlay').remove()
+  }
+
+  document.body.style.overflow = 'hidden'
+  elem('section', `<p>${message}</p>`, [{type: 'class', value: 'message'}], document.body)
+  elem('div', null, [{type: 'class', value: 'message-overlay'}], document.body)
+  elem('h1', "Atenção", null, document.querySelector('.message'), true)
+  elem('button', "ok", [{type: 'class', value: 'action'}], document.querySelector('.message'))
+
+  document.querySelector('.message .action').addEventListener('click', cleanMessage)
+}
+
+function cleanMessage() {
+  document.body.removeAttribute('style')
+  document.querySelector('.message').remove()
+  document.querySelector('.message-overlay').remove()
+}
 
 function elem(type, content, attribute, insert, appendType) {
   let el = document.createElement(type)
@@ -213,6 +236,53 @@ a:hover {
   opacity: 1;
   pointer-events: all;
   filter: invert(1);
+}
+
+.message {
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  max-width: 400px;
+  width: calc(100% - 30px);
+  margin: 0 auto;
+  position: fixed;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #333;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  z-index: 9;
+  font-size: 18px;
+}
+
+.message h1 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.message .action {
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  background: #eee;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
+
+.message .action:hover {
+  background: #fff;
+}
+
+.message-overlay {
+  background: #333;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: .9;
 }
 
 .footer {

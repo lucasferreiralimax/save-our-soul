@@ -5,7 +5,10 @@ const messages = [
   'Posso não te conhecer ainda, mas se você precisar de ajuda ficarei grato em te ajudar <br>@lucasferreiralimax',
   'Você não está sozinho, tenha calma, conforme sua urgência busque compartilhar o que precisa para esses contatos listados aqui.',
   'Compartilhando informação podemos melhorar o Mundo de cada pessoa, se estiver passando por alguma dificuldade entre em contato.',
-  'Nesse Mundo viemos para aprender a evoluir nossa alma, tenha calma, a vida pode parecer difícil mas não é nada impossível para que possamos melhorar.'
+  'Nesse Mundo viemos para aprender a evoluir nossa alma, tenha calma, a vida pode parecer difícil mas não é nada impossível para que possamos melhorar.',
+  'Respire fundo, pense no tamanho do universo. Consegue imaginar tudoo que ainda vai conhecer? Tenha calma, respire fundo.',
+  'Você é importante se chegou até aqui, tenha calma antes de seguir converse com alguém dessa lista se precisar.',
+  'Se você já foi ajudado, retribua isso para o universo e mantenha a calma. Se precisar de ajuda entre em contato.'
 ]
 
 function getRandomIntInclusive(min, max) {

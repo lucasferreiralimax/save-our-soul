@@ -19,7 +19,7 @@ function getRandomIntInclusive(min, max) {
 
 function keepCalm() {
   if(keep_again) {    
-    let lucky = getRandomIntInclusive(0,4)
+    let lucky = getRandomIntInclusive(0, messages.length)
     keep_again = false
 
     showMessage(messages[lucky])
